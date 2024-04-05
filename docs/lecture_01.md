@@ -10,7 +10,10 @@ permalink: /lec01/
 <ul>
     <li>Taylor's theorem</li>
 </ul>
-<p><a href="https://youtu.be/6sYccIDd8FY" target="_blank" rel="noopener">https://youtu.be/6sYccIDd8FY</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6sYccIDd8FY?si=_R1BB_UHLzgEViMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 <p>For animations please see</p>
 <p><a href="https://www.youtube.com/watch?v=3d6DsjIBzJ4&amp;t=44s" target="_blank" rel="noopener">https://www.youtube.com/watch?v=3d6DsjIBzJ4&amp;t=44s</a>&nbsp;</p>
 <ul>
