@@ -8,7 +8,7 @@ layout: home
 <h1>Computational Methods in Simulation</h1>
 This is the course homepage for the MSc course <a href="[url]https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
 
-This is a course prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half days of inetractive lectures per week and includes 4 hand-ins.
+This is a course prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half days of interactive lectures per week and includes 4 hand-ins.
 
 For teachers:If you'd like to re-use our course material, please feel free to reach out!
 
@@ -17,7 +17,7 @@ For teachers:If you'd like to re-use our course material, please feel free to re
 Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hnd-ins through the University of Copenhagen system, <a href="[url]https://absalon.ku.dk/courses/72771">Absalon</a>. 
 
 <h3>Online students</h3>
-Since this course is fully open, you are more than welcome to follow along. Unfortunately quizzes cannot be taken at this point, but they mostly check backgroiund knowledge. Exercises can be followed along using the provided Jupyter notebooks, but they will not be graded.
+Since this course is fully open, you are more than welcome to follow along. Unfortunately quizzes cannot be taken at this point, but they mostly check background knowledge. Exercises can be followed along using the provided Jupyter notebooks, but they will not be graded.
 
 <h2>Teachers and TA</h2>
 <ul>
