@@ -4,7 +4,7 @@
 @import "minima";
 
 .site-title::before {
-	content: "{{ "/assets/images/logo_32x32.png" | relative_url }}";
+	content: url("{{site.baseurl}}/assets/images/logo_32x32.png");
 	display: inline-block;
 	position: relative;
 	width: 35px;
