@@ -1,4 +1,8 @@
-
 .DS_Store
-/.idea
 docs/_site
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+/.idea
