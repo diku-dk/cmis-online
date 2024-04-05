@@ -6,7 +6,7 @@ permalink: /lec03/
 
 <h1>Advanced Finite Difference Method Techniques</h1>
 
-p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_11.pdf" href="https://absalon.ku.dk/courses/72771/files/8258608?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258608" data-api-returntype="File">slides_11.pdf</a></p>
+<p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_11.pdf" href="https://absalon.ku.dk/courses/72771/files/8258608?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258608" data-api-returntype="File">slides_11.pdf</a></p>
 <h2>Reading Material</h2>
 <ul>
     <li>Real-time Fluid Dynamics for Games by Jos Stam (2003), GDC 2003 Conference proceedings: Game Developers Conference. <a href="https://www.josstam.com/_files/ugd/cf1fd6_9989229efbd34a26ba5ccd913721a2ac.pdf" target="_blank" rel="noopener">https://www.josstam.com/_files/ugd/cf1fd6_9989229efbd34a26ba5ccd913721a2ac.pdf</a>&nbsp;</li>
