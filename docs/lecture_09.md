@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lecture 9
+permalink: /lec9/
+---
+
 <h1>Dynamic Elastic Simulation with FDM, FVM, and/or FEM</h1>
 
 <p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_21.pdf" href="https://absalon.ku.dk/courses/72771/files/8258609?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258609" data-api-returntype="File">slides_21.pdf</a></p>

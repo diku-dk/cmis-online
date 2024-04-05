@@ -1,3 +1,9 @@
+---
+layout: page
+title: Topics
+permalink: /topics/
+---
+
 <h1>Overview of topics covered in this course.</h1>
 
 <ul>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Lecture 9 | Computational Methods in Simulation</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Lecture 9" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Online course material for the the University of Copenhagen course: Computational Methods in Simulation." />
+<meta property="og:description" content="Online course material for the the University of Copenhagen course: Computational Methods in Simulation." />
+<link rel="canonical" href="http://localhost:4000/lec9/" />
+<meta property="og:url" content="http://localhost:4000/lec9/" />
+<meta property="og:site_name" content="Computational Methods in Simulation" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Lecture 9" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Online course material for the the University of Copenhagen course: Computational Methods in Simulation.","headline":"Lecture 9","url":"http://localhost:4000/lec9/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css">
+  <link rel="shortcut icon" type="image/png" href="/assets/images/logo_16x16.png"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Computational Methods in Simulation" /></head><body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Computational Methods in Simulation</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/topics/">Topics</a><a class="page-link" href="/lec01/">Lecture 1</a><a class="page-link" href="/lec02/">Lecture 2</a><a class="page-link" href="/lec03/">Lecture 3</a><a class="page-link" href="/lec04/">Lecture 4</a><a class="page-link" href="/lec05/">Lecture 5</a><a class="page-link" href="/lec06/">Lecture 6</a><a class="page-link" href="/lec07/">Lecture 7</a><a class="page-link" href="/lec08/">Lecture 8</a><a class="page-link" href="/lec9/">Lecture 9</a><a class="page-link" href="/notebooks/">Jupyter Notebooks</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Lecture 9</h1>
+  </header>
+
+  <div class="post-content">
+    <h1>Dynamic Elastic Simulation with FDM, FVM, and/or FEM</h1>
+
+<p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_21.pdf" href="https://absalon.ku.dk/courses/72771/files/8258609?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258609" data-api-returntype="File">slides_21.pdf</a></p>
+<h1>Reading Material</h1>
+<p>Here is a list of resources to help you learn more.</p>
+<ul>
+    <li>Chapter 2 and Section 3.4 in <a class="instructure_file_link instructure_scribd_file inline_disabled" title="erleben.13.book.pdf" href="https://absalon.ku.dk/courses/72771/files/8258597?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258597" data-api-returntype="File">erleben.13.book.pdf.</a></li>
+    <li>
+        <div class="csl-right-inline">J. Teran, S. Blemker, V. Ng Thow Hing, and R. Fedkiw. 2003. Finite volume methods for the simulation of skeletal muscle. In Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation (SCA '03). Eurographics Association, Goslar, DEU, 68&ndash;74. <a href="https://dl.acm.org/doi/10.5555/846276.846285" target="_blank" rel="noopener">https://dl.acm.org/doi/10.5555/846276.846285.</a>&nbsp;</div>
+        Eftychios Sifakis and Jernej Barbic. 2012. FEM simulation of 3D deformable solids: a practitioner's guide to theory, discretization and model reduction. In ACM SIGGRAPH 2012 Courses (SIGGRAPH '12). Association for Computing Machinery, New York, NY, USA, Article 20, 1&ndash;50. <a href="https://doi.org/10.1145/2343483.2343501" target="_blank" rel="noopener">https://doi.org/10.1145/2343483.2343501.</a>&nbsp;
+    </li>
+    <li>
+        <div class="csl-right-inline">Theodore Kim and David Eberle. 2022. Dynamic deformables: implementation and production practicalities (now with code!). In ACM SIGGRAPH 2022 Courses (SIGGRAPH '22). Association for Computing Machinery, New York, NY, USA, Article 7, 1&ndash;259. <a href="https://doi.org/10.1145/3532720.3535628" target="_blank" rel="noopener">https://doi.org/10.1145/3532720.3535628.</a></div>
+    </li>
+</ul>
+<h1>Idealization of a Dynamic Elastic Beam</h1>
+<ul>
+    <li>This video summarizes the physics equations that are used as part of the finite volume method discretization.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/utHGmsnYQAs" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>Median Dual Vertex Centred Control Volume</h1>
+<ul>
+    <li>This video defines the median dual vertex-centered control volume.</li>
+    <li>The aim is to learn how to create and define this type of volume.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/PyDEcsPGqME" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>Control Volume Notation and Terminology</h1>
+<ul>
+    <li>This video introduces notation and terminology that is used when working with the median dual vertex-centred control volume.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/rNBCfHJq8Jo" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>Finite Volume Method on The Cauchy Equation</h1>
+<ul>
+    <li>This video introduces the steps that need to be done in the spatial discretization process.</li>
+    <li>The aim is to provide an overview of the process such that students can work out the details themselves.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/8q_Z8SJR22M" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>Computing The Deformation Gradient</h1>
+<ul>
+    <li>This video outlines the math behind computing the deformation gradient.</li>
+    <li>The aim is to learn how linear elements and differentials can be exploited to derive an efficient computational formula.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/ezhS3XP8DeI" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>Picking The Mesh Layout</h1>
+<ul>
+    <li>This video outlines a possible mesh layout for how to create a data structure for storing values during simulation.</li>
+    <li>The aim is to learn that vector/control volume quantities are stored at vertices and tensors are stored at triangles and edges only keeping geometry information about themselves.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/B3dXubpI0Lo" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>The Clever Rewrite</h1>
+<ul>
+    <li>This video demonstrates a convenient transformation of the elastic surface (line in 2D) can be conveniently transformed.</li>
+    <li>The aim is to learn the technicalities in the mathematical rewrite and be able to account for how this rewrite is connected to the choice of the control volume.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/-JPzaaX8uSI" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>Adding Time Discretization</h1>
+<ul>
+    <li>This video outlines the math for proper time discretization.</li>
+    <li>The aim is to learn how the semi-implicit first-order time-stepping method is derived.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/kx7Db71YmR8" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>The Final Numerical Method</h1>
+<ul>
+    <li>This video summarizes all the past derivations into a step-by-step guide on how to implement the computations</li>
+    <li>The aim is to learn how to order the computations and gives an idea for structuring one's own code when implementing a simulator.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/--6CBQdh17U" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1>Oh no! The Model Collapse Issue</h1>
+<ul>
+    <li>This video analyzes how the Saint Venant Kirchoff model behaves under extreme extension/compression.</li>
+    <li>The aim is to understand when and how material failures may occur with this material model.</li>
+</ul>
+<p><iframe src="//www.youtube.com/embed/DmF27lbF-Zc" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Computational Methods in Simulation</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Computational Methods in Simulation</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Online course material for the the University of Copenhagen course: Computational Methods in Simulation.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

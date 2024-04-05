@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lecture 8
+permalink: /lec08/
+---
+
 <h1>Magnetostatics Simulation with the Finite Volume Method</h1>
 
 <p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_13.pdf" href="https://absalon.ku.dk/courses/72771/files/8258600?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258600" data-api-returntype="File">slides_13.pdf</a></p>

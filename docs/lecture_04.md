@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lecture 4
+permalink: /lec04/
+---
+
 <h1>Curvature Flow an Advanced Example</h1>
 
 <p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_12.pdf" href="https://absalon.ku.dk/courses/72771/files/8258602?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258602" data-api-returntype="File">slides_12.pdf</a></p>

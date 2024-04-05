@@ -1,3 +1,10 @@
+---
+layout: page
+title: Jupyter Notebooks
+permalink: /notebooks/
+---
+
+
 <p>Jupyter notebooks are used throughout this course and Anaconda is used to set up a conda environment for the notebooks. Alternatively, you can also use Google's Colaboratory to work with the notebooks.</p>
 <h2>Anaconda</h2>
 <p>In order to install Anaconda, go to <a href="https://www.anaconda.com/distribution/">https://www.anaconda.com/distribution/</a> and download the Python 3.7 version. If you already have it installed, you cna just downgrade Python like below.</p>
