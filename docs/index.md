@@ -10,11 +10,19 @@ This is the course homepage for the MSc course <a href="[url]https://kurser.ku.d
 
 This is a course prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half days of interactive lectures per week and includes 4 hand-ins.
 
-For teachers:If you'd like to re-use our course material, please feel free to reach out!
+<h2>For teachers:</h2>
+If you'd like to re-use our course material, please feel free to reach out!
 
 <h2>For students:</h2>
 <h3>Physical students</h3>
 Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hnd-ins through the University of Copenhagen system, <a href="[url]https://absalon.ku.dk/courses/72771">Absalon</a>. 
+
+Rooms:
+<ul>
+    <li>Monday afternoon: &oslash;v - NBB 2.3.I.164, Jagtvej 155</li>
+    <li>Wednesday morning: &oslash;v - NBB 2.3.I.164, Jagtvej 155</li>
+    <li>Wednesday afternoon: aud - NBB 2.0.G.064/070, Jagtvej 155</li>
+</ul>
 
 <h3>Online students</h3>
 Since this course is fully open, you are more than welcome to follow along. Unfortunately quizzes cannot be taken at this point, but they mostly check background knowledge. Exercises can be followed along using the provided Jupyter notebooks, but they will not be graded.
@@ -121,12 +129,7 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
 <p>We do not use a textbook. Slides, notes, articles, and copies of texts are available on this course web page.</p>
 <h2>Hand-ins</h2>
 <p>All hand-ins must be submitted as a maximum 5-page pdf file and one must use the ACM TOG overleaf latex template for writing the hand-in. Each hand-in assignment is accompanied by a Jupyter notebook with python code. The notebook is to be submitted with the hand-in as well.</p>
-<h2>Rooms</h2>
-<ul>
-    <li>Monday afternoon: &oslash;v - NBB 2.3.I.164, Jagtvej 155</li>
-    <li>Wednesday morning: &oslash;v - NBB 2.3.I.164, Jagtvej 155</li>
-    <li>Wednesday afternoon: aud - NBB 2.0.G.064/070, Jagtvej 155</li>
-</ul>
+
 <h2>Weekly Layout</h2>
 <p>Suggestions:</p>
 <ul>
