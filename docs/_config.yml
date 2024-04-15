@@ -71,6 +71,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - index.md
+  - about.md
   - preliminaries.md
   - week_01.md
   - week_02.md
