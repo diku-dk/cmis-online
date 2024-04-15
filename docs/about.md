@@ -1,8 +1,11 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+---
+layout: page
+title: About
+permalink: /about/
+---
 ---
 
 <h1>Computational Methods in Simulation</h1>
