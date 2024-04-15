@@ -70,7 +70,6 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - index.md
   - about.md
   - preliminaries.md
   - week_01.md
