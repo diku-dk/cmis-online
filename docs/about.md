@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
----
 
 <h1>Computational Methods in Simulation</h1>
 This is the course homepage for the MSc course <a href="[url]https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
