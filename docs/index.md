@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
 
 This is the course homepage for the MSc course <a href="[url]https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
-Check out the [Course Information]({{ '/about' | relative_url }}) and the [Preliminaries]({{ '/prelim' | relative_url }})
+
+Check out the [Course Information]({{ '/about' | relative_url }}) and the [Preliminaries]({{ '/prelim' | relative_url }})!
