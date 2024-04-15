@@ -15,16 +15,24 @@ permalink: /lec01/
 </p>
 
 <p>For animations please see</p>
-<p><a href="https://www.youtube.com/watch?v=3d6DsjIBzJ4&amp;t=44s" target="_blank" rel="noopener">https://www.youtube.com/watch?v=3d6DsjIBzJ4&amp;t=44s</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3d6DsjIBzJ4?si=mWx2lFnQKem3oy6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <ul>
     <li>Big O and little o notation</li>
 </ul>
-<p><a href="https://youtu.be/ud8S1uiW4J4" target="_blank" rel="noopener">https://youtu.be/ud8S1uiW4J4</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ud8S1uiW4J4?si=WzbK-agxqsUCUAKp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <ul>
     <li>Convergence rates<span class="instructure_file_holder link_holder"><br /></span></li>
 </ul>
-<p><a href="https://youtu.be/M5YVfh_NvQw" target="_blank" rel="noopener">https://youtu.be/M5YVfh_NvQw</a></p>
-<p><a href="https://youtu.be/kvtzrB5nLKc" target="_blank" rel="noopener">https://youtu.be/kvtzrB5nLKc</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5YVfh_NvQw?si=YDNWa2_mSN9vFzp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kvtzrB5nLKc?si=HSfdSAttgpsC0zjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <h2>Vector calculus I</h2>
 <p>Here we introduce you to some basic operators, which cover the start of <span class="instructure_file_holder link_holder"> <a class="inline_disabled" href="https://absalon.ku.dk/courses/72771/files/folder/slides?preview=4301061" target="_blank" rel="noopener">slides_07.pdf</a></span></p>
 <ul>
@@ -32,11 +40,15 @@ permalink: /lec01/
     <li>Laplacian operator</li>
     <li>Advection example</li>
 </ul>
-<p><a href="https://youtu.be/k5l6Tz59AEA" target="_blank" rel="noopener">https://youtu.be/k5l6Tz59AEA</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5l6Tz59AEA?si=ZFZD5UWJ8V8_t5GN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <h2>Vector calculus II</h2>
 <ul>
     <li>Laplace equation</li>
     <li>Poisson equation</li>
     <li>Advection equation</li>
 </ul>
-<p><a href="https://youtu.be/pTuo5C4Q_Wc" target="_blank" rel="noopener">https://youtu.be/pTuo5C4Q_Wc</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTuo5C4Q_Wc?si=hz54NPOO7fgM9X6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
