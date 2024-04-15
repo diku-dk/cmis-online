@@ -67,7 +67,7 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
             <td>Slides 6</td>
             <td></td>
             <td>See Jupyter notebook for hand in 2</td>
-            <td>Francois/Melanie</td>
+            <td>Francois/Melanie (François gone on Wednesday)</td>
         </tr>
         <tr>
             <td><strong>4</strong></td>
