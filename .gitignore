@@ -1,8 +1,12 @@
-.DS_Store
-docs/_site
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
-/.idea
+_posts/2024-04-15-welcome-to-jekyll.markdown
+about.markdown
+index.markdown
+Gemfile
+Gemfile.lock
+404.html
+_config.yml
