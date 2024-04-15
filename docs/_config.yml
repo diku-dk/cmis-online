@@ -70,17 +70,15 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - topics.md
-  - lecture_01.md
-  - lecture_02.md
-  - lecture_03.md
-  - lecture_04.md
-  - lecture_05.md
-  - lecture_06.md
-  - lecture_07.md
-  - lecture_08.md
-  - lecture_09.md
-  - notebooks.md
+  - index.md
+  - preliminaries.md
+  - week_01.md
+  - week_02.md
+  - week_03.md
+  - week_04.md
+  - week_05.md
+  - week_06.md
+  - week_07.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
