@@ -43,7 +43,9 @@ permalink: /lec04/
     </li>
 </ul>
 <p>The video covers<span>&nbsp;</span><span class="instructure_file_holder link_holder"><a class="inline_disabled" href="https://absalon.ku.dk/courses/72771/files/folder/slides?preview=4301084" target="_blank" rel="noopener">slides_12.pdf</a> pages 8-10.</span></p>
-<p><a href="https://youtu.be/QyHeELY3REE" target="_blank" rel="noopener">https://youtu.be/QyHeELY3REE</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QyHeELY3REE?si=XLN4V-aG3ILEIraU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <h2><a href="https://youtu.be/QyHeELY3REE" target="_blank" rel="noopener"></a>Handling Numerical "Side-effects"&nbsp;</h2>
 <p>This video will</p>
 <ul>
