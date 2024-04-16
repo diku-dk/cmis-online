@@ -25,14 +25,18 @@ permalink: /lec05/
     <li>Read chapters 7 and 8 in the book <a href="https://link.springer.com/book/10.1007/b97350">Implicit Objects in Computer Graphics </a>, and the paper <a href="https://dl.acm.org/doi/10.1109/TVCG.2005.49">Signed Distance Computation Using the Angle Weighted Pseudonormal.</a></li>
     <li>Supplementary reading: <a href="https://dl.acm.org/doi/10.1145/15886.15904">Constructive solid geometry for polyhedral objects</a></li>
 </ul>
-<p><iframe src="//www.youtube.com/embed/_Ge1HCkEjOs" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p>
+<iframe src="//www.youtube.com/embed/_Ge1HCkEjOs" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+</p>
 <h1>Simple 3D Examples with PyDistMesh</h1>
 <ul>
     <li>This video shows how to create volumetric tetrahedral meshes using CSG operations of signed distance fields</li>
     <li>Get the DistMesh software from <a href="https://pypi.org/project/PyDistMesh/">https://pypi.org/project/PyDistMesh/</a></li>
     <li>The aim is by example to learn how to use CSG for modeling meshes in 3D.</li>
 </ul>
-<p><iframe src="//www.youtube.com/embed/uL8k00L4YLQ" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p>
+<iframe src="//www.youtube.com/embed/uL8k00L4YLQ" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+</p>
 <h1>Data Structure for a Tetrahedral Mesh</h1>
 <ul>
     <li>This video shows how a tetrahedral mesh can be stored using Arrays in NumPy, how to read a surface mesh from a file and to use a mesh tool on the surface mesh to obtain a tetrahedral mesh.</li>
@@ -47,7 +51,9 @@ permalink: /lec05/
     <li>This type of algorithm is closely related to contouring algorithms that are used in computer graphics for visualizing implicit surfaces, often referred to as isosurfaces. The same type of algorithm is often used to extract surface meshes from image segmentations. Like getting bone surfaces from a CT image. The "classical" contouring algorithm is considered to be the "marching cubes" method, see the link below. Today many derived methods exist. The contouring idea has also been extended to volume mesh generation and is sometimes called "stuffing", see the paper link below. The marching triangle method we introduced here in 2D can be trivially extended to 3D. This we leave as an optional home programming exercise for those students that like to explore meshing more.</li>
     <li>Supplementary reading: <a href="https://dl.acm.org/doi/10.1145/37401.37422">Marching cubes: A high-resolution 3D surface construction algorithm</a> and <a href="https://dl.acm.org/doi/10.1145/1276377.1276448">Isosurface stuffing: fast tetrahedral meshes with good dihedral angles</a>.</li>
 </ul>
-<p><iframe src="//www.youtube.com/embed/WA6pdAxThMY" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p>
+<iframe src="//www.youtube.com/embed/WA6pdAxThMY" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+</p>
 <h1>Marching Triangles made Efficient</h1>
 <ul>
     <li>This video explains how to use bitmasks and stencils to efficiently encode all the triangle cases of the marching triangles method.</li>
@@ -59,14 +65,18 @@ permalink: /lec05/
         </ul>
     </li>
 </ul>
-<p><iframe src="//www.youtube.com/embed/SXWtFj-kBfA" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p>
+<iframe src="//www.youtube.com/embed/SXWtFj-kBfA" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+</p>
 <h1>Introduction to quality measures</h1>
 <ul>
     <li>This video introduces quality measures and histograms as tools to verify if a computational mesh can be expected to behave nicely for simulation purposes.</li>
     <li>The aim is not to get deep into the theory of quality measures but to achieve a good practice of always using multiple measures to inspect a mesh before using that mesh.</li>
     <li>Read about different quality measures in this paper <a href="https://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf">What Is a Good Linear Finite Element? Interpolation, Conditioning, Anisotropy, and Quality Measures</a>. The paper is dense so focus on fair measures in section 6. Particular Table 7 is a quite useful reference.</li>
 </ul>
-<p><iframe src="//www.youtube.com/embed/FJVptzqUPEI" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p>
+<iframe src="//www.youtube.com/embed/FJVptzqUPEI" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+</p>
 <h1>(Optional) Learn more</h1>
 <ul>
     <li>You have seen examples of meshing algorithms that use stuffing into an implicit representation above. However, two other types of algorithms are frequently used. One is based on constrained Delaunay triangulations and the other is based on variational meshing. Read these papers for an introduction <a href="https://dl.acm.org/doi/10.1145/2629697">TetGen, a Delaunay-Based Quality Tetrahedral Mesh Generator</a>, and <a href="https://dl.acm.org/doi/pdf/10.1145/1073204.1073238">Variational Tetrahedral Meshing</a>.</li>

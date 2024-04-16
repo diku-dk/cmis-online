@@ -20,28 +20,36 @@ permalink: /lec08/
     <li>Various verification techniques for FVM</li>
 </ul>
 <p>This video covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_13.pdf" href="https://absalon.ku.dk/courses/72771/files/8258600?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258600" data-api-returntype="File">slides_13.pdf</a>&nbsp;pages 1-8</p>
-<p><a href="https://youtu.be/kKkwpvs09qM" target="_blank" rel="noopener">https://youtu.be/kKkwpvs09qM&nbsp;</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kKkwpvs09qM?si=St8bxfXKn-ynq0Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p><span style="font-size: 24pt;">Finite Volume Toy Example</span></p>
 <p>In this video, we will cover:</p>
 <ul>
     <li>Introducing the finite volume toy example</li>
 </ul>
 <p>This video covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_13.pdf" href="https://absalon.ku.dk/courses/72771/files/8258600?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258600" data-api-returntype="File">slides_13.pdf</a>, pages 9-10</p>
-<p><a href="https://youtu.be/8If9N9dnGek" target="_blank" rel="noopener">https://youtu.be/8If9N9dnGek&nbsp;</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8If9N9dnGek?si=3ywGUppq7hy01fpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p><span style="font-size: 24pt;">Gauss Divergence Theorem</span></p>
 <p>In this video, we will cover:</p>
 <ul>
     <li>Introducing the Gauss Divergence Theorem</li>
     <li>Showcasing its utility for FVM</li>
 </ul>
-<p><a href="https://youtu.be/NKb-iqr8a-o" target="_blank" rel="noopener">https://youtu.be/NKb-iqr8a-o</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NKb-iqr8a-o?si=4-xCFTZ933-6SIxB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p><span style="font-size: 24pt;">Transport and Flux</span></p>
 <p>In this video, we will cover:</p>
 <ul>
     <li>Introducing the concept of transport and flux</li>
     <li>Showcasing its utility for FVM</li>
 </ul>
-<p><a href="https://youtu.be/yP-k1g337u8" target="_blank" rel="noopener">https://youtu.be/yP-k1g337u8</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yP-k1g337u8?si=rnE91THKhZBIn5Z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p><span style="font-size: 24pt;">Finite Volume Traits of the Trade</span></p>
 <p>In this video, we will cover:</p>
 <ul>
@@ -51,7 +59,9 @@ permalink: /lec08/
     <li>Using the Leibniz rule for differentiation under the integral</li>
     <li>Applying the Midpoint approximation rule</li>
 </ul>
-<p><a href="https://youtu.be/x69tAd5dyZA" target="_blank" rel="noopener">https://youtu.be/x69tAd5dyZA</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x69tAd5dyZA?si=m7VJEgSAONCLA7o_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p><span style="font-size: 24pt;">Finite Volume Mesh Details</span></p>
 <p>In this video, we will cover:</p>
 <ul>
@@ -60,9 +70,13 @@ permalink: /lec08/
     <li>Different control volume types</li>
 </ul>
 <p>The video covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_13.pdf" href="https://absalon.ku.dk/courses/72771/files/8258600?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258600" data-api-returntype="File">slides_13.pdf</a> pages 27-29</p>
-<p><a href="https://youtu.be/64sL_cpFZuE" target="_blank" rel="noopener">https://youtu.be/64sL_cpFZuE</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64sL_cpFZuE?si=WyxzzKbWOCGhB1l-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p><span style="font-size: 24pt;">Step-by-Step Solution to The Toy Problem</span></p>
-<p><span style="font-size: 12pt;"><a href="https://youtu.be/7yCwoqxl5AQ" target="_blank" rel="noopener">https://youtu.be/7yCwoqxl5AQ</a> <br /></span></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7yCwoqxl5AQ?si=3zD-lMNoAIzPdMWd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p><span style="font-size: 24pt;">Introduction to the Magnetostatic Problem</span>&nbsp;&nbsp;</p>
 <p>In this video, we will cover:</p>
 <ul>
@@ -72,7 +86,9 @@ permalink: /lec08/
     <li>Visualizations for the solution of the magnetostatic problem</li>
 </ul>
 <p>This video covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_13.pdf" href="https://absalon.ku.dk/courses/72771/files/8258600?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258600" data-api-returntype="File">slides_13.pdf</a> pages 47-48</p>
-<p><a href="https://youtu.be/SGOdAjU0IjA" target="_blank" rel="noopener">https://youtu.be/SGOdAjU0IjA&nbsp;</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SGOdAjU0IjA?si=ibwgYLlF60hEXFq-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p><span style="font-size: 24pt;">Implementation Details for the Magnetostatic <br />Problem</span></p>
 <p>In this video, we will cover:</p>
 <ul>
@@ -80,6 +96,8 @@ permalink: /lec08/
     <li>Handling discontinuous integrands</li>
 </ul>
 <p>This video covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_13.pdf" href="https://absalon.ku.dk/courses/72771/files/8258600?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258600" data-api-returntype="File">slides_13.pdf</a> pages 56-60</p>
-<p><a href="https://youtu.be/HjqGtu1x1AE" target="_blank" rel="noopener">https://youtu.be/HjqGtu1x1AE</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HjqGtu1x1AE?si=TRJbf8h4fhGmnwbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lecture 9
-permalink: /lec9/
+permalink: /lec09/
 ---
 
 <h1>Dynamic Elastic Simulation with FDM, FVM, and/or FEM</h1>
