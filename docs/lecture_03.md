@@ -19,7 +19,9 @@ permalink: /lec03/
     <li>Show how to perform "simple" time-integration&nbsp;</li>
 </ul>
 <p>The video covers<span> <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_11.pdf" href="https://absalon.ku.dk/courses/72771/files/8258608?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258608" data-api-returntype="File">slides_11.pdf</a></span><span class="instructure_file_holder link_holder">&nbsp;on page 51.</span></p>
-<p><a href="https://youtu.be/nhoJRMTFfhs" target="_blank" rel="noopener">https://youtu.be/nhoJRMTFfhs</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhoJRMTFfhs?si=TTxpsn522-0RmJF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <h2>Advanced Time Integration</h2>
 <p>This video will</p>
 <ul>
@@ -28,9 +30,17 @@ permalink: /lec03/
     </li>
 </ul>
 <p>The video covers<span> <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_11.pdf" href="https://absalon.ku.dk/courses/72771/files/8258608?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258608" data-api-returntype="File">slides_11.pdf</a></span><span class="instructure_file_holder link_holder">&nbsp;pages 52-60.</span></p>
-<p><a href="https://youtu.be/gPw2e7Ife8w" target="_blank" rel="noopener">https://youtu.be/gPw2e7Ife8w</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gPw2e7Ife8w?si=mfg2EU24QAoCMgWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 <h2>Advection Examples</h2>
 <p>This video shows one simulation run of a rotating peak-like shape. Observe that the advection problem simply rotates the shape of the function. Hence, if the "numerics" is done well then the shape of the peaks should be preserved when doing one full revolution.</p>
-<p><a class="" href="https://youtu.be/ORo8pJ-aAOU" data-ytt-failcnt="3">https://youtu.be/ORo8pJ-aAOU</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ORo8pJ-aAOU?si=2vAo5HPOJfBTm2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 <p>In this video, we show a sequence of simulation results demonstrating what happens when the time-step size and grid spacing are changed. Observe that the shape of the peak function changes after doing one full revolution. This way one can find a time-step and grid-spacing size that preserves the shape of the peaks sufficiently well.</p>
-<p><a class="" href="https://youtu.be/Gf084_Jqbq0" data-ytt-failcnt="3">https://youtu.be/Gf084_Jqbq0</a></p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gf084_Jqbq0?si=PnlyQDjlPSP7m58H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>

@@ -20,7 +20,9 @@ permalink: /lec04/
     <li>Test yourself: Explain to the person sitting next to you intuitively what a mean curvature flow does, what do you think it will be useful for?</li>
 </ul>
 <p>The video covers<span>&nbsp;</span><span class="instructure_file_holder link_holder"><a class="inline_disabled" href="https://absalon.ku.dk/courses/72771/files/folder/slides?preview=4301084" target="_blank" rel="noopener">slides_12.pdf</a> pages 2-3.</span></p>
-<p><a href="https://youtu.be/HjAd6UvF-Pg" target="_blank" rel="noopener">https://youtu.be/HjAd6UvF-Pg</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HjAd6UvF-Pg?si=rSVKoZcpcHP4Rvbt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <h2>Mathematical Rewriting The Mean Curvature Flow Problem</h2>
 <p>This video will</p>
 <ul>
@@ -30,7 +32,9 @@ permalink: /lec04/
     <li>Test yourself: Why does one do this rewrite? Is it not just a lot of fun math for nothing? The two curvature formulas are algebraic equivalent? Try and find good reasons for the rewrite.</li>
 </ul>
 <p>The video covers<span>&nbsp;</span><span class="instructure_file_holder link_holder"><a class="inline_disabled" href="https://absalon.ku.dk/courses/72771/files/folder/slides?preview=4301084" target="_blank" rel="noopener">slides_12.pdf</a> pages 4-7.</span></p>
-<p><a href="https://youtu.be/DI0qKmke_OU" target="_blank" rel="noopener">https://youtu.be/DI0qKmke_OU</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DI0qKmke_OU?si=TsQpqdHvaQZY8NVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 <h2>Spatial Discretization of Mean Curvature Term</h2>
 <p>This video will</p>
 <ul>
@@ -49,7 +53,10 @@ permalink: /lec04/
     <li>Test yourself: Make some illustrations of contour shapes on a grid that will cause the numerical issues that are covered in the video. Try and account for the nature that causes the issues to pop up.&nbsp;</li>
 </ul>
 <p>The video covers<span>&nbsp;</span><span class="instructure_file_holder link_holder"><a class="inline_disabled" href="https://absalon.ku.dk/courses/72771/files/folder/slides?preview=4301084" target="_blank" rel="noopener">slides_12.pdf</a> pages 11-13.</span></p>
-<p><a href="https://youtu.be/YqMJ16qAxG4" target="_blank" rel="noopener">https://youtu.be/YqMJ16qAxG4</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YqMJ16qAxG4?si=p4lyHatQkEh2TJtl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 <h2>Adding Temporal Discretization</h2>
 <p>The video will</p>
 <ul>
@@ -59,4 +66,6 @@ permalink: /lec04/
     <li>Test yourself: Try and explain to the person next to you what the intuition is behind the CFL condition. Exactly what is the main idea behind this condition? Try and come up with a flow example problem where a CFL condition would be necessary in order to get the numerical solution correct.</li>
 </ul>
 <p>The video covers<span>&nbsp;</span><span class="instructure_file_holder link_holder"><a class="inline_disabled" href="https://absalon.ku.dk/courses/72771/files/folder/slides?preview=4301084" target="_blank" rel="noopener">slides_12.pdf</a> pages 14-16.</span></p>
-<p><a href="https://youtu.be/wZRX6FFZn0I" target="_blank" rel="noopener">https://youtu.be/wZRX6FFZn0I</a>&nbsp;</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZRX6FFZn0I?si=UGP2GA7ZBgN3YSyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
