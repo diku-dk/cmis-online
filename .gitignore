@@ -13,3 +13,5 @@ _config.yml
 docs/Gemfile
 docs/Gemfile
 docs/Gemfile.lock
+.DS_Store
+.idea/
