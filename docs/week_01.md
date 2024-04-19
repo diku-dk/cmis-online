@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 1
-permalink: /week01
+permalink: /week01/
 ---
 
 
