@@ -33,6 +33,9 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
 </ul>
 
 <h2>Course Overview</h2>
+
+[Week 1]({{ '/week01' | relative_url }})
+
 <table border="1" cellspacing="1" cellpadding="1">
     <tbody>
         <tr>
@@ -46,7 +49,10 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
         <tr>
             <td><strong>1</strong></td>
             <td>Finite Difference Methods</td>
-            <td>[Week 1]({{ '/week01' | relative_url }})</td>
+            <td>
+                [Week 1]({{ '/week01' | relative_url }})
+                [Lecture 1]({{ '/lec01' | relative_url }})
+            </td>
             <td>Background knowledge about modeling and math can be found in Slides number 2, 3, and 4. Before lectures start, do quizzes on Absalon: Modeling Process, Vector Calculus, and Taylors Theorem</td>
             <td>See Jupyter notebook for hand in 1</td>
             <td>Melanie/Francois</td>
