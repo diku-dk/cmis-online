@@ -33,85 +33,43 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
 </ul>
 
 <h2>Course Overview</h2>
-
-[Week 1]({{ '/week01' | relative_url }})
-
 <table border="1" cellspacing="1" cellpadding="1">
     <tbody>
         <tr>
             <td><strong>Week</strong></td>
             <td><strong>The module of the Week</strong></td>
-            <td><strong>Syllabus</strong></td>
-            <td><strong>Notes</strong></td>
-            <td><strong>Hand In</strong></td>
-            <td>Teacher of the Week</td>
         </tr>
         <tr>
-            <td><strong>1</strong></td>
+            <td><strong> Week 1</strong></td>
             <td>Finite Difference Methods</td>
-            <td>
-                [Week 1]({{ '/week01' | relative_url }})
-                [Lecture 1]({{ '/lec01' | relative_url }})
-            </td>
-            <td>Background knowledge about modeling and math can be found in Slides number 2, 3, and 4. Before lectures start, do quizzes on Absalon: Modeling Process, Vector Calculus, and Taylors Theorem</td>
-            <td>See Jupyter notebook for hand in 1</td>
-            <td>Melanie/Francois</td>
         </tr>
         <tr>
-            <td><strong>2</strong></td>
+            <td><strong>Week 2</strong></td>
             <td><span>Finite Difference Methods</span></td>
-            <td>Slides 11 and 12</td>
-            <td>For background knowledge about mean curvature flow have a look at Slides 7, specifically pages 1-7</td>
-            <td>See Jupyter notebookfor hand in 1</td>
-            <td>Melanie/Francois</td>
         </tr>
         <tr>
-            <td><strong>3</strong></td>
+            <td><strong>Week 3</strong></td>
             <td>Computational Meshing</td>
-            <td>Slides 6</td>
-            <td></td>
-            <td>See Jupyter notebook for hand in 2</td>
-            <td>Francois/Melanie</td>
         </tr>
         <tr>
-            <td><strong>4</strong></td>
+            <td><strong>Week 4</strong></td>
             <td>Finite Element Method</td>
-            <td>Page 1-48 in Slides 19</td>
-            <td>Background knowledge on physics can be found in Slides 18</td>
-            <td>See Jupyter notebook for hand in 2</td>
-            <td>Melanie (Francois gone)</td>
         </tr>
         <tr>
-            <td><strong>5</strong></td>
-            <td>Finite Element Method (no lecture on Monday)</td>
-            <td>Slides 15, 17, 18, and pages 49-60 in Slides 19</td>
-            <td>Midterm Oral Evaluation. Supplementary reading pages 1-25 in "erleben.13.book.pdf". Before lectures do quizzes on Absalon: Tensor Algebra and Stress and Strain</td>
-            <td>See Jupyter notebook for hand in 3 </td>
-            <td>Melanie/Francois</td>
+            <td><strong>Week 5</strong></td>
+            <td>Finite Element Method</td>
         </tr>
         <tr>
-            <td><strong>6</strong></td>
+            <td><strong>Week 6</strong></td>
             <td>Finite Volume Method</td>
-            <td>Slides 13</td>
-            <td></td>
-            <td>See Jupyter notebookfor hand in 3</td>
-            <td>Francois/Melanie</td>
         </tr>
         <tr>
-            <td><strong>7</strong></td>
+            <td><strong>Week 7</strong></td>
             <td>Build Your Own Simulator (no lecture on Wednesday)</td>
-            <td>Slides 21</td>
-            <td>Official Online Evaluation Opens</td>
-            <td>See Jupyter notebook for hand in 4</td>
-            <td>Francois (Melanie gone)</td>
         </tr>
         <tr>
-            <td><strong>8</strong></td>
+            <td><strong>Week 8</strong></td>
             <td>Build Your Own Simulator</td>
-            <td>Slides 21</td>
-            <td></td>
-            <td>See Jupyter notebook for hand in 4</td>
-            <td>Francois/Melanie</td>
         </tr>
     </tbody>
 </table>
