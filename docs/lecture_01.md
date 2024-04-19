@@ -7,7 +7,7 @@ permalink: /lec01/
 <h1>Mathematical preliminaries</h1>
 
 <p>Here we basically cover 
-<a href="{{ "/assets/slides/Computational_Methods_04___Numerical_Optimization.pdf" | absolute_url }}" slides 4</a>
+[slides 4](/assets/slides/Computational_Methods_04___Numerical_Optimization.pdf)
 </p>
 <ul>
     <li>Taylor's theorem</li>
