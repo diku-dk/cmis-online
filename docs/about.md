@@ -65,7 +65,7 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
         </tr>
         <tr>
             <td><strong>Week 7</strong></td>
-            <td>Build Your Own Simulator (no lecture on Wednesday)</td>
+            <td>Build Your Own Simulator</td>
         </tr>
         <tr>
             <td><strong>Week 8</strong></td>
