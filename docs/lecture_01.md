@@ -6,7 +6,7 @@ permalink: /lec01/
 
 <h1>Mathematical preliminaries</h1>
 
-<p>Here we basically cover <span class="instructure_file_holder link_holder"><a class="inline_disabled" href="https://absalon.ku.dk/courses/72771/files/folder/slides?preview=4301079" target="_blank" rel="noopener">slides_04.pdf</a></span></p>
+<p>Here we basically cover [Slides 04]({{ file name='Computational_Methods_04___Numerical_Optimization.pdf'}})</a></span></p>
 <ul>
     <li>Taylor's theorem</li>
 </ul>
