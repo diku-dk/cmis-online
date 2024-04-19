@@ -6,7 +6,7 @@ permalink: /lec05/
 
 <h1>Computational Meshing</h1>
 
-<p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_06.pdf" href="https://absalon.ku.dk/courses/72771/files/8258601?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258601" data-api-returntype="File">slides_06.pdf</a></p>
+<p>This lecture covers slides 6.</p>
 <h1>Reading Material</h1>
 <ul>
     <li>Ferziger, J.H., Perić, M., Street, R.L. (2020). Complex Geometries. In: Computational Methods for Fluid Dynamics. Springer, Cham. <a href="https://doi.org/10.1007/978-3-319-99693-6_9" target="_blank" rel="noopener">https://doi.org/10.1007/978-3-319-99693-6_9</a> , Section 9.1-9.5.</li>
