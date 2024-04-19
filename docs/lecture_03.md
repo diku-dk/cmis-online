@@ -6,7 +6,7 @@ permalink: /lec03/
 
 <h1>Advanced Finite Difference Method Techniques</h1>
 
-<p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_11.pdf" href="https://absalon.ku.dk/courses/72771/files/8258608?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258608" data-api-returntype="File">slides_11.pdf</a></p>
+<p>This lecture covers slides 11</p>
 <h2>Reading Material</h2>
 <ul>
     <li>Real-time Fluid Dynamics for Games by Jos Stam (2003), GDC 2003 Conference proceedings: Game Developers Conference. <a href="https://www.josstam.com/_files/ugd/cf1fd6_9989229efbd34a26ba5ccd913721a2ac.pdf" target="_blank" rel="noopener">https://www.josstam.com/_files/ugd/cf1fd6_9989229efbd34a26ba5ccd913721a2ac.pdf</a>&nbsp;</li>
@@ -17,8 +17,8 @@ permalink: /lec03/
     <li>Introduce you to the aspect of spatial vs. time derivatives</li>
     <li>Introduce what a scalar field is</li>
     <li>Show how to perform "simple" time-integration&nbsp;</li>
+    <li>Covers: slides 11 (page 51)
 </ul>
-<p>The video covers<span> <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_11.pdf" href="https://absalon.ku.dk/courses/72771/files/8258608?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258608" data-api-returntype="File">slides_11.pdf</a></span><span class="instructure_file_holder link_holder">&nbsp;on page 51.</span></p>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nhoJRMTFfhs?si=TTxpsn522-0RmJF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
@@ -27,9 +27,9 @@ permalink: /lec03/
 <ul>
     <li>
         <p>Explain the idea and concept behind the semi-lagrangian time integration method</p>
+        <li>Covers: slides 11 (pages 52-60)
     </li>
 </ul>
-<p>The video covers<span> <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_11.pdf" href="https://absalon.ku.dk/courses/72771/files/8258608?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258608" data-api-returntype="File">slides_11.pdf</a></span><span class="instructure_file_holder link_holder">&nbsp;pages 52-60.</span></p>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPw2e7Ife8w?si=mfg2EU24QAoCMgWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
