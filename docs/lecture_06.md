@@ -6,7 +6,7 @@ permalink: /lec06/
 
 <h1>Introduction to Finite Element Method </h1>
 
-<p>This lecture covers theory in <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_19.pdf" href="https://absalon.ku.dk/courses/72771/files/8258604?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258604" data-api-returntype="File">slides_19.pdf</a>&nbsp;from page 1 to page 48.</p>
+<p>This lecture covers theory in slides 19 from page 1 to page 48.</p>
 <h1>Reading Material</h1>
 <ul>
     <li>The Finite Element Method: its Basis and Fundamentals by O.C. Zienkiewicz, R.L. Taylor, J.Z. Zhu, Chapter 1 - The Standard Discrete System and Origins of the Finite Element Method, <a href="https://doi.org/10.1016/B978-1-85617-633-0.00001-0" target="_blank" rel="noopener">https://doi.org/10.1016/B978-1-85617-633-0.00001-0.</a></li>

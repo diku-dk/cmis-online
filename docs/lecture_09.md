@@ -6,7 +6,8 @@ permalink: /lec09/
 
 <h1>Dynamic Elastic Simulation with FDM, FVM, and/or FEM</h1>
 
-<p>This lecture covers <a class="instructure_file_link instructure_scribd_file inline_disabled" title="slides_21.pdf" href="https://absalon.ku.dk/courses/72771/files/8258609?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258609" data-api-returntype="File">slides_21.pdf</a></p>
+<p>This lecture covers slides 21.
+
 <h1>Reading Material</h1>
 <p>Here is a list of resources to help you learn more.</p>
 <ul>
