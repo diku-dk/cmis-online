@@ -6,7 +6,9 @@ permalink: /lec01/
 
 <h1>Mathematical preliminaries</h1>
 
-<p>Here we basically cover [Slides 04](https://diku-dk.github.io/cmis-online/docs/assets/slides/Computational_Methods_04___Numerical_Optimization.pdf)</p>
+<p>Here we basically cover 
+<link rel="slides 4" type="slides/pdf" href="{{ "/assets/slides/Computational_Methods_04___Numerical_Optimization.pdf" | absolute_url }}">
+</p>
 <ul>
     <li>Taylor's theorem</li>
 </ul>
