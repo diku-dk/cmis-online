@@ -6,7 +6,9 @@ permalink: /lec07/
 
 <h1>Quasistatic Elastic Simulation with FEM</h1>
 
-<p>This lecture covers theory in slides 19 from page 49 to page 61. Furthermore the slides 15, 17 and 18 have relevant supplementary information.
+<p>This lecture covers theory in 
+<a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a>
+from page 49 to page 61. Furthermore the slides 15, 17 and 18 have relevant supplementary information.
 <h1>Reading Material</h1>
 <p>We recommend that you spend time making sure you are familiar with tensors and basic definitions from continuum mechanics. Here is a list of resources to help you get up to speed quickly.</p>
 <ul>
