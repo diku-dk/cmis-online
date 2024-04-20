@@ -13,7 +13,7 @@ permalink: /lec09/
 <h1>Reading Material</h1>
 <p>Here is a list of resources to help you learn more.</p>
 <ul>
-    <li>Chapter 2 and Section 3.4 in <a class="instructure_file_link instructure_scribd_file inline_disabled" title="erleben.13.book.pdf" href="https://absalon.ku.dk/courses/72771/files/8258597?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://absalon.ku.dk/api/v1/courses/72771/files/8258597" data-api-returntype="File">erleben.13.book.pdf.</a></li>
+    <li>Chapter 2 and Section 3.4 in <a href="{{'/assets/slides/erleben.13.book.pdf' | relative_url}}">Kenny's book notes</a></li>
     <li>
         <div class="csl-right-inline">J. Teran, S. Blemker, V. Ng Thow Hing, and R. Fedkiw. 2003. Finite volume methods for the simulation of skeletal muscle. In Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation (SCA '03). Eurographics Association, Goslar, DEU, 68&ndash;74. <a href="https://dl.acm.org/doi/10.5555/846276.846285" target="_blank" rel="noopener">https://dl.acm.org/doi/10.5555/846276.846285.</a>&nbsp;</div>
         Eftychios Sifakis and Jernej Barbic. 2012. FEM simulation of 3D deformable solids: a practitioner's guide to theory, discretization and model reduction. In ACM SIGGRAPH 2012 Courses (SIGGRAPH '12). Association for Computing Machinery, New York, NY, USA, Article 20, 1&ndash;50. <a href="https://doi.org/10.1145/2343483.2343501" target="_blank" rel="noopener">https://doi.org/10.1145/2343483.2343501.</a>&nbsp;
