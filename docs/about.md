@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Course info
+title: About
 permalink: /about/
 ---
 
 This is the course homepage for the MSc course <a href="[url]https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
 
+* Overview of [topics]({{ '/topics' | relative_url }}) that we cover in this course
+* Information about how to run our [Jupyter Notebooks]({{ '/notebooks' | relative_url }})
+* All the [slides]({{ '/slides' | relative_url }}) using in this course
+
 This is a course prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half days of interactive lectures per week and includes 4 hand-ins.
+
 
 <h2>For teachers:</h2>
 If you'd like to re-use our course material, please feel free to reach out!
@@ -67,10 +72,12 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
             <td><strong>Week 7</strong></td>
             <td>Build Your Own Simulator</td>
         </tr>
+<!--
         <tr>
             <td><strong>Week 8</strong></td>
             <td>Build Your Own Simulator</td>
         </tr>
+-->
     </tbody>
 </table>
 <h2>This is a flipped classroom course - What does this mean?</h2>

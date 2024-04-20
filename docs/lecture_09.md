@@ -6,7 +6,9 @@ permalink: /lec09/
 
 <h1>Dynamic Elastic Simulation with FDM, FVM, and/or FEM</h1>
 
-<p>This lecture covers slides 21.
+<p>This lecture covers
+<a href="{{'assets/slides/Computational_Methods_21___Build_Your_Own_Simulator.pdf' | relative_url}}">slides 21</a>
+.</p>
 
 <h1>Reading Material</h1>
 <p>Here is a list of resources to help you learn more.</p>

@@ -71,7 +71,6 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
-  - preliminaries.md
   - week_01.md
   - week_02.md
   - week_03.md
@@ -79,7 +78,6 @@ header_pages:
   - week_05.md
   - week_06.md
   - week_07.md
-  - slides.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
