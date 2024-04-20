@@ -20,7 +20,8 @@ If you'd like to re-use our course material, please feel free to reach out!
 
 <h2>For students:</h2>
 <h3>Physical students</h3>
-Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hnd-ins through the University of Copenhagen system, <a href="[url]https://absalon.ku.dk/courses/72771">Absalon</a>. 
+Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hnd-ins through the University of Copenhagen system, 
+<a href="https://absalon.ku.dk/courses/72771">Absalon</a>. 
 
 Rooms:
 <ul>
