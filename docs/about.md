@@ -10,7 +10,7 @@ given at the Department of Computer Science (DIKU) at the University of Copenhag
 
 * Overview of [topics]({{ '/topics' | relative_url }}) that we cover in this course
 * Information about how to run our [Jupyter Notebooks]({{ '/notebooks' | relative_url }})
-* All the [slides]({{ '/slides' | relative_url }}) using in this course
+* All the [slides]({{ '/slides' | relative_url }}) used in this course
 
 This is a course prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half days of interactive lectures per week and includes 4 hand-ins.
 
@@ -20,7 +20,7 @@ If you'd like to re-use our course material, please feel free to reach out!
 
 <h2>For students:</h2>
 <h3>Physical students</h3>
-Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hnd-ins through the University of Copenhagen system, 
+Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hand-ins through the University of Copenhagen system, 
 <a href="https://absalon.ku.dk/courses/72771">Absalon</a>. 
 
 Rooms:
@@ -88,19 +88,19 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
 <ul>
     <li>There are no formal lectures, we may present short overviews of topics as we go along.</li>
     <li>You will have to work in groups throughout all hours, teachers will be coaching and mentoring you during class hours.</li>
-    <li>Weekly Jupyter notebooks will be distributed on the course web page on Absalon to help students with programming exercises and support students in making their hand-ins.</li>
-    <li>Online quizzes will be available through the course web page.</li>
     <li>Video screencasts where the teachers give an overview of the syllabus slides will be distributed on the course web page and on YouTube.</li>
     <li>Slide material, notes, and other reading material will also be distributed through the course web page.</li>
+    <li>Online quizzes will be available for physical students through Absalon.</li>
     <li>All questions regarding slides, programming, hand-ins, the syllabus, and other direct course-related content must be asked during class hours. E-mails will in general be ignored if questions belong to the class hours.</li>
     <li>Students will be divided into random workgroups every week.</li>
+    <li>Bi-weekly Jupyter notebooks will be distributed on the course web page on Absalon to help students with programming exercises and support students in making their bi-weekly hand-ins.</li>
     <li>All hand-in deadlines are strict. Students are allowed to hand in early; the TA will provide written feedback on hand-ins. We will try and have feedback available no later than one week after the respective hand-in deadline.</li>
     <li>Students are allowed to work together but hand-ins are individual and we will check for plagiarism.</li>
 </ul>
 <h2>Textbook</h2>
 <p>We do not use a textbook. Slides, notes, articles, and copies of texts are available on this course web page.</p>
 <h2>Hand-ins</h2>
-<p>All hand-ins must be submitted as a maximum 5-page pdf file and one must use the ACM TOG overleaf latex template for writing the hand-in. Each hand-in assignment is accompanied by a Jupyter notebook with python code. The notebook is to be submitted with the hand-in as well.</p>
+<p>All hand-ins must be submitted as a maximum 10-page pdf file and one must use the ACM TOG overleaf latex template for writing the hand-in. Each hand-in assignment is accompanied by a Jupyter notebooks with python code. The notebook is to be submitted with the hand-in as well.</p>
 
 <h2>Weekly Layout</h2>
 <p>Suggestions:</p>
