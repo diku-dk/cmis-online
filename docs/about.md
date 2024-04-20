@@ -5,20 +5,22 @@ permalink: /about/
 ---
 
 This is the course homepage for the MSc course 
-<a href="https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a>
-given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
+<a href="https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). The course was prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half days of interactive lectures per week and includes 4 hand-ins.
+
+Check out:
 
 * Overview of [topics]({{ '/topics' | relative_url }}) that we cover in this course
 * Information about how to run our [Jupyter Notebooks]({{ '/notebooks' | relative_url }})
 * All the [slides]({{ '/slides' | relative_url }}) used in this course
-
-This is a course prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half days of interactive lectures per week and includes 4 hand-ins.
-
+* [Exercises]({{ '/exercises' | relative_url }}) for each week will support you in getting hands on experience with the material. 
 
 <h2>For teachers:</h2>
-If you'd like to re-use our course material, please feel free to reach out!
+If you'd like to re-use our course material, please feel free to reach out to <a href="https://di.ku.dk/english/staff/?pure=en/persons/110537">Prof. Kenny Erleben</a>!
 
 <h2>For students:</h2>
+<h3>Online students</h3>
+Since this course is fully open, you are more than welcome to follow along. Unfortunately quizzes cannot be taken at this point, but they mostly check background knowledge. Exercises can be followed along using the provided Jupyter notebooks, but they will not be graded.
+
 <h3>Physical students</h3>
 Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hand-ins through the University of Copenhagen system, 
 <a href="https://absalon.ku.dk/courses/72771">Absalon</a>. See the [exercise page]({{ '/exercises' | relative_url }}) for more information.
@@ -30,17 +32,14 @@ Rooms:
     <li>Wednesday afternoon: aud - NBB 2.0.G.064/070, Jagtvej 155</li>
 </ul>
 
-<h3>Online students</h3>
-Since this course is fully open, you are more than welcome to follow along. Unfortunately quizzes cannot be taken at this point, but they mostly check background knowledge. Exercises can be followed along using the provided Jupyter notebooks, but they will not be graded.
-
-<h2>Teachers and TA</h2>
+Teachers and TA:
 <ul>
     <li>Melanie Ganz-Benjaminsen</li>
     <li>Francois Lauze</li>
     <li>Jorge Expósito Patiño (TA)</li>
 </ul>
 
-<h2>Course Overview</h2>
+Course Overview:
 <table border="1" cellspacing="1" cellpadding="1">
     <tbody>
         <tr>
@@ -83,33 +82,33 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
 -->
     </tbody>
 </table>
-<h2>This is a flipped classroom course - What does this mean?</h2>
+
+Textbook:
+<p>We do not use a textbook. Slides, notes, articles, and copies of texts are available on [this page]({{ '/slides' | relative_url }}).</p>
+
+This is a flipped classroom course - What does this mean?
 <p>The course is structured as follows:</p>
 <ul>
     <li>There are no formal lectures, we may present short overviews of topics as we go along.</li>
     <li>You will have to work in groups throughout all hours, teachers will be coaching and mentoring you during class hours.</li>
-    <li>Video screencasts where the teachers give an overview of the syllabus slides will be distributed on the course web page and on YouTube.</li>
-    <li>Slide material, notes, and other reading material will also be distributed through the course web page.</li>
-    <li>Online quizzes will be available for physical students through Absalon.</li>
+    <li>Video screencasts where the teachers give an overview of the syllabus slides will be distributed on this course web page and on YouTube.</li>
+    <li>Slide material, notes, and other reading material will also be distributed through this course web page.</li>
+    <li>Online quizzes will be available through Absalon.</li>
     <li>All questions regarding slides, programming, hand-ins, the syllabus, and other direct course-related content must be asked during class hours. E-mails will in general be ignored if questions belong to the class hours.</li>
     <li>Students will be divided into random workgroups every week.</li>
-    <li>Bi-weekly Jupyter notebooks will be distributed on the course web page on Absalon to help students with programming exercises and support students in making their bi-weekly hand-ins.</li>
+    <li>Weekly exercises in Jupyter notebooks will be distributed on the [exercises page]({{ '/exercises' | relative_url }}) to help students with programming exercises and support students in making their bi-weekly hand-ins. Those need to be submitted through Absalon. See the [exercises page]({{ '/exercises' | relative_url }}) for details.</li>
     <li>All hand-in deadlines are strict. Students are allowed to hand in early; the TA will provide written feedback on hand-ins. We will try and have feedback available no later than one week after the respective hand-in deadline.</li>
     <li>Students are allowed to work together but hand-ins are individual and we will check for plagiarism.</li>
 </ul>
-<h2>Textbook</h2>
-<p>We do not use a textbook. Slides, notes, articles, and copies of texts are available on this course web page.</p>
-<h2>Hand-ins</h2>
-<p>All hand-ins must be submitted as a maximum 10-page pdf file and one must use the ACM TOG overleaf latex template for writing the hand-in. Each hand-in assignment is accompanied by a Jupyter notebooks with python code. The notebook is to be submitted with the hand-in as well.</p>
 
-<h2>Weekly Layout</h2>
-<p>Suggestions:</p>
+Weekly Layout:
 <ul>
     <li>Prepare for Monday by reading during Friday and the weekend.</li>
     <li>Continue to work in your study group on Tuesday to increase deep learning of the theory.</li>
     <li>Plan for Wednesday so you know what problems to ask your teacher about.</li>
     <li>Use Thursday and Friday to polish your bi-weekly hand-in, and add theory to the practical work you did during Wednesday's classes.</li>
 </ul>
+
 <p>The class schedule is roughly as follows:</p>
 <table border="1" cellpadding="1">
     <tbody>
@@ -183,7 +182,7 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
             <td></td>
             <td style="background-color: #aa2211;">Work on Hand-in (TA supervised)</td>
             <td></td>
-            <td style="background-color: #aa9999;">Bi-Weekly Submission Deadline</td>
+            <td></td>
         </tr>
         <tr>
             <td>16-17</td>
@@ -191,7 +190,7 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
             <td></td>
             <td style="background-color: #aa9999;">Work on Hand-in (unsupervised)</td>
             <td></td>
-            <td></td>
+            <td style="background-color: #aa9999;">Bi-Weekly Submission Deadline</td>
         </tr>
     </tbody>
 </table>
