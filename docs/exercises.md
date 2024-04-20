@@ -4,7 +4,6 @@ title: Exercises
 permalink: /exercises/
 ---
 
-<h1>Exercises</h1>
 <p>
 In order to support the learning process we provide weekly Jupyter notebooks. The Jupyter notebooks contain exercises that help you to understand the material. 
 </p>
