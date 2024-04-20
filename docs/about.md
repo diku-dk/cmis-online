@@ -25,21 +25,21 @@ Since this course is fully open, you are more than welcome to follow along. Unfo
 Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hand-ins through the University of Copenhagen system, 
 <a href="https://absalon.ku.dk/courses/72771">Absalon</a>. See the [exercise page]({{ '/exercises' | relative_url }}) for more information.
 
-Rooms:
+<h4>Rooms:</h4>
 <ul>
     <li>Monday afternoon: &oslash;v - NBB 2.3.I.164, Jagtvej 155</li>
     <li>Wednesday morning: &oslash;v - NBB 2.3.I.164, Jagtvej 155</li>
     <li>Wednesday afternoon: aud - NBB 2.0.G.064/070, Jagtvej 155</li>
 </ul>
 
-Teachers and TA:
+<h4>Teachers and TA:</h4>
 <ul>
     <li>Melanie Ganz-Benjaminsen</li>
     <li>Francois Lauze</li>
     <li>Jorge Expósito Patiño (TA)</li>
 </ul>
 
-Course Overview:
+<h4>Course Overview:</h4>
 <table border="1" cellspacing="1" cellpadding="1">
     <tbody>
         <tr>
@@ -83,10 +83,10 @@ Course Overview:
     </tbody>
 </table>
 
-Textbook:
+<h4>Textbook:</h4>
 <p>We do not use a textbook. Slides, notes, articles, and copies of texts are available on [this page]({{ '/slides' | relative_url }}).</p>
 
-This is a flipped classroom course - What does this mean?
+<h4>This is a flipped classroom course - What does this mean?</h4>
 <p>The course is structured as follows:</p>
 <ul>
     <li>There are no formal lectures, we may present short overviews of topics as we go along.</li>
@@ -101,7 +101,7 @@ This is a flipped classroom course - What does this mean?
     <li>Students are allowed to work together but hand-ins are individual and we will check for plagiarism.</li>
 </ul>
 
-Weekly Layout:
+<h4>Weekly Layout:</h4>
 <ul>
     <li>Prepare for Monday by reading during Friday and the weekend.</li>
     <li>Continue to work in your study group on Tuesday to increase deep learning of the theory.</li>
