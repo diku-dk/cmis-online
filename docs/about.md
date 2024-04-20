@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the course homepage for the MSc course <a href="[url]https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
+This is the course homepage for the MSc course 
+<a href="https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a>
+given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
 
 * Overview of [topics]({{ '/topics' | relative_url }}) that we cover in this course
 * Information about how to run our [Jupyter Notebooks]({{ '/notebooks' | relative_url }})
