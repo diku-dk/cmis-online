@@ -8,7 +8,8 @@ permalink: /exercises/
 In order to support the learning process we provide weekly Jupyter notebooks. The Jupyter notebooks contain exercises that help you to understand the material. 
 </p>
 <ul>
-    <li><a href="{{ '/assets/notebooks/week1.ipynb' | relative_url }}">Exercise 1</a>.</li>
+    <li><a href="{{ '/assets/notebooks/week1.ipynb' | relative_url }}">Exercise for week  1</a>.</li>
+    <li><a href="{{ '/assets/notebooks/week2.ipynb' | relative_url }}">Exercise  for week 2</a>.</li>
 </ul>
 
 
