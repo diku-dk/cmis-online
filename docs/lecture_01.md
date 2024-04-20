@@ -36,7 +36,9 @@ Here we basically cover
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvtzrB5nLKc?si=HSfdSAttgpsC0zjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <h2>Vector calculus I</h2>
-<p>Here we introduce you to some basic operators, which cover the start of <span class="instructure_file_holder link_holder"> <a class="inline_disabled" href="https://absalon.ku.dk/courses/72771/files/folder/slides?preview=4301061" target="_blank" rel="noopener">slides_07.pdf</a></span></p>
+<p>Here we introduce you to some basic operators, which cover the start of 
+<a href="{{'assets/slides/Computational_Methods_07___The_Navier_Stokes_Equations.pdf' | relative_url}}">slides 7</a>
+</p>
 <ul>
     <li>Nabla operator</li>
     <li>Laplacian operator</li>
