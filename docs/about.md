@@ -5,7 +5,11 @@ permalink: /about/
 ---
 
 This is the course homepage for the MSc course 
-<a href="https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). The course was prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half days of interactive lectures per week and includes 4 hand-ins.
+<a href="https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given
+at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). The
+course was prepared by Professor Kenny Erleben, Associate Professor Melanie Ganz and
+Associate Professor Francois Lauze. The course structure is 8 weeks with one and a half
+days of mixed interactive classes and lectures per week and includes 4 hand-ins.
 
 Check out:
 
@@ -14,8 +18,20 @@ Check out:
 * All the [slides]({{ '/slides' | relative_url }}) used in this course
 * [Exercises]({{ '/exercises' | relative_url }}) for each week will support you in getting hands on experience with the material. 
 
+Please cite any material used from this course using this Bibtex entry. All material are copyrighted by authors.
+
+```
+@misc{diku_cmis_online_course,
+  author       = {Erleben, Kenny and Ganz, Melanie and Lauze, Francois},
+  title        = {Computational Methods in Simulation},
+  howpublished = {Online Course},
+  year         = {2024},
+  organization = {Department of Computer Science (DIKU), University of Copenhagen (UCPH)}
+}
+```
+
 <h2>For teachers:</h2>
-If you'd like to re-use our course material, please feel free to reach out to <a href="https://di.ku.dk/english/staff/?pure=en/persons/110537">Prof. Kenny Erleben</a>!
+If you would like to use our course material for you own teaching and need teachers solutions then please feel free to reach out to <a href="https://di.ku.dk/english/staff/?pure=en/persons/110537">Professor Kenny Erleben</a>. 
 
 <h2>For students:</h2>
 <h3>Online students</h3>
@@ -84,20 +100,30 @@ Registered students at the University of Copenhagen can physically participate a
 </table>
 
 <h4>Textbook:</h4>
-<p>We do not use a textbook. Slides, notes, articles, and copies of texts are available on [this page]({{ '/slides' | relative_url }}).</p>
+<p>We do not have a single textbook in this course. Instead slides and notes are
+available on <a href="{{ '/slides' | relative_url }}">[this page]</a>. The slides
+make references to textbooks, scientific papers and software that we strongly
+encourage students to read and investigate themselves.</p>
 
-<h4>This is a flipped classroom course - What does this mean?</h4>
+<h4>Flipped Classroom Teaching</h4>
+The physical version of this course is designed as a flipped classroom course - what does this mean?
 <p>The course is structured as follows:</p>
 <ul>
     <li>There are no formal lectures, we may present short overviews of topics as we go along.</li>
     <li>You will have to work in groups throughout all hours, teachers will be coaching and mentoring you during class hours.</li>
-    <li>Video screencasts where the teachers give an overview of the syllabus slides will be distributed on this course web page and on YouTube.</li>
-    <li>Slide material, notes, and other reading material will also be distributed through this course web page.</li>
+    <li>Video screencasts where the teachers present theory from the syllabus slides will be distributed through this website.</li>
+    <li>Slide material, notes, and exercises will also be distributed through this course web page.</li>
     <li>Online quizzes will be available through Absalon.</li>
     <li>All questions regarding slides, programming, hand-ins, the syllabus, and other direct course-related content must be asked during class hours. E-mails will in general be ignored if questions belong to the class hours.</li>
     <li>Students will be divided into random workgroups every week.</li>
-    <li>Weekly exercises in Jupyter notebooks will be distributed on the [exercises page]({{ '/exercises' | relative_url }}) to help students with programming exercises and support students in making their bi-weekly hand-ins. Those need to be submitted through Absalon. See the [exercises page]({{ '/exercises' | relative_url }}) for details.</li>
-    <li>All hand-in deadlines are strict. Students are allowed to hand in early; the TA will provide written feedback on hand-ins. We will try and have feedback available no later than one week after the respective hand-in deadline.</li>
+    <li>Weekly exercises in Jupyter notebooks will be distributed on the
+<a herf="{{ '/exercises' | relative_url }}">[exercises page]</a> to help
+students with programming exercises and support students in making their
+bi-weekly hand-ins. The hand ins need to be submitted through Absalon. See
+the <a herf="{{ '/exercises' | relative_url }}">[exercises page]</a> for details.</li>
+    <li>All hand-in deadlines are strict. Students are allowed to hand in early; the TA will provide
+written feedback on hand-ins. We will try and have feedback available no later than one week
+after the respective hand-in deadline.</li>
     <li>Students are allowed to work together but hand-ins are individual and we will check for plagiarism.</li>
 </ul>
 
@@ -106,7 +132,8 @@ Registered students at the University of Copenhagen can physically participate a
     <li>Prepare for Monday by reading during Friday and the weekend.</li>
     <li>Continue to work in your study group on Tuesday to increase deep learning of the theory.</li>
     <li>Plan for Wednesday so you know what problems to ask your teacher about.</li>
-    <li>Use Thursday and Friday to polish your bi-weekly hand-in, and add theory to the practical work you did during Wednesday's classes.</li>
+    <li>Use Thursday and Friday to polish your bi-weekly hand-in, and add theory to the practical
+work you did during Wednesday's classes.</li>
 </ul>
 
 <p>The class schedule is roughly as follows:</p>
