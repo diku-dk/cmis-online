@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 This is the course homepage for the MSc course 
 <a href="https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given
 at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). The
@@ -78,12 +79,6 @@ Registered students at the University of Copenhagen can physically participate a
             <td><strong>Week 7</strong></td>
             <td>Build Your Own Simulator</td>
         </tr>
-<!--
-        <tr>
-            <td><strong>Week 8</strong></td>
-            <td>Build Your Own Simulator</td>
-        </tr>
--->
     </tbody>
 </table>
 
@@ -123,7 +118,7 @@ after the respective hand-in deadline.</li>
     <li>Use Thursday and Friday to polish your bi-weekly hand-in, and add theory to the practical
 work you did during Wednesday's classes.</li>
 </ul>
-
+-->
 <p>The class schedule is roughly as follows:</p>
 <table border="1" cellpadding="1">
     <tbody>
@@ -139,7 +134,7 @@ work you did during Wednesday's classes.</li>
             <td>8-9</td>
             <td></td>
             <td></td>
-            <td style="background-color: #aa9999;">Programming (unsupervised)</td>
+            <td style="background-color: #d38484;">Programming (unsupervised)</td>
             <td></td>
             <td></td>
         </tr>
@@ -147,7 +142,7 @@ work you did during Wednesday's classes.</li>
             <td>9-10</td>
             <td></td>
             <td></td>
-            <td style="background-color: #aaaa11;">Programming</td>
+            <td style="background-color: #2eb231;">Programming</td>
             <td></td>
             <td></td>
         </tr>
@@ -155,7 +150,7 @@ work you did during Wednesday's classes.</li>
             <td>10-11</td>
             <td></td>
             <td></td>
-            <td style="background-color: #aaaa11;">Programming</td>
+            <td style="background-color: #2eb231;">Programming</td>
             <td></td>
             <td></td>
         </tr>
@@ -163,7 +158,7 @@ work you did during Wednesday's classes.</li>
             <td>11-12</td>
             <td></td>
             <td></td>
-            <td style="background-color: #aaaa11;">Summary and Sharing</td>
+            <td style="background-color: #2eb231;">Summary and Sharing</td>
             <td></td>
             <td></td>
         </tr>
@@ -177,23 +172,23 @@ work you did during Wednesday's classes.</li>
         </tr>
         <tr>
             <td>13-14</td>
-            <td style="background-color: #aaaa11;">Short Overview &amp; Questions</td>
+            <td style="background-color: #2eb231;">Short Overview &amp; Questions</td>
             <td></td>
-            <td style="background-color: #aaaa11;">Experiments Planning</td>
+            <td style="background-color: #2eb231;">Experiments Planning</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>14-15</td>
-            <td style="background-color: #aaaa11;">Study group work</td>
+            <td style="background-color: #2eb231;">Study group work</td>
             <td></td>
-            <td style="background-color: #aaaa11;">Perform Experiments</td>
+            <td style="background-color: #2eb231;">Perform Experiments</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>15-16</td>
-            <td style="background-color: #aa9999;">Study group work (unsupervised)</td>
+            <td style="background-color: #d38484;">Study group work (unsupervised)</td>
             <td></td>
             <td style="background-color: #aa2211;">Work on Hand-in (TA supervised)</td>
             <td></td>
@@ -201,11 +196,12 @@ work you did during Wednesday's classes.</li>
         </tr>
         <tr>
             <td>16-17</td>
-            <td style="background-color: #aa9999;">Study group work (unsupervised)</td>
+            <td style="background-color: #d38484;">Study group work (unsupervised)</td>
             <td></td>
-            <td style="background-color: #aa9999;">Work on Hand-in (unsupervised)</td>
+            <td style="background-color: #d38484;">Work on Hand-in (unsupervised)</td>
             <td></td>
-            <td style="background-color: #aa9999;">Bi-Weekly Submission Deadline</td>
+            <td style="background-color: #d38484;">Bi-Weekly Submission Deadline</td>
         </tr>
     </tbody>
 </table>
+
