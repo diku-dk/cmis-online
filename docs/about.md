@@ -118,7 +118,7 @@ after the respective hand-in deadline.</li>
     <li>Use Thursday and Friday to polish your bi-weekly hand-in, and add theory to the practical
 work you did during Wednesday's classes.</li>
 </ul>
--->
+
 <p>The class schedule is roughly as follows:</p>
 <table border="1" cellpadding="1">
     <tbody>
