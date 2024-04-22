@@ -11,4 +11,5 @@ Taylors Theorem.
 
 * [Lecture 1]({{ '/lec01' | relative_url }})
 * [Lecture 2]({{ '/lec02' | relative_url }})
+* [Programming exercise 1]({{ '/assets/notebooks/week1.ipynb' | relative_url }})
 

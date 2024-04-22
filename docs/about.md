@@ -14,21 +14,9 @@ days of mixed interactive classes and lectures per week and includes 4 hand-ins.
 Check out:
 
 * Overview of [topics]({{ '/topics' | relative_url }}) that we cover in this course
-* Information about how to run our [Jupyter Notebooks]({{ '/notebooks' | relative_url }})
+* Information about how to run our [Jupyter notebooks]({{ '/notebooks' | relative_url }})
 * All the [slides]({{ '/slides' | relative_url }}) used in this course
 * [Exercises]({{ '/exercises' | relative_url }}) for each week will support you in getting hands on experience with the material. 
-
-Please cite any material used from this course using this Bibtex entry. All material are copyrighted by authors.
-
-```
-@misc{diku_cmis_online_course,
-  author       = {Erleben, Kenny and Ganz, Melanie and Lauze, Francois},
-  title        = {Computational Methods in Simulation},
-  howpublished = {Online Course},
-  year         = {2024},
-  organization = {Department of Computer Science (DIKU), University of Copenhagen (UCPH)}
-}
-```
 
 <h2>For teachers:</h2>
 If you would like to use our course material for you own teaching and need teachers solutions then please feel free to reach out to <a href="https://di.ku.dk/english/staff/?pure=en/persons/110537">Professor Kenny Erleben</a>. 

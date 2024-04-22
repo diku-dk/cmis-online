@@ -8,4 +8,5 @@ During this weekwe continue with the Finite Element method and introduce some ad
 the quizzes on Absalon: Tensor Algebra and Stress and Strain.
 
 * [Lecture 7]({{ '/lec07' | relative_url }})
+* [Programming exercise 5]({{ '/assets/notebooks/week5.ipynb' | relative_url }})
 

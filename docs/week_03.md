@@ -7,4 +7,5 @@ permalink: /week03/
 Here in week we will focus on computational meshes and introduce you to some of their properties.
 
 * [Lecture 5]({{ '/lec05' | relative_url }})
+* [Programming exercise 3]({{ '/assets/notebooks/week3.ipynb' | relative_url }})
 
