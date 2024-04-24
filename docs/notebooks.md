@@ -13,6 +13,28 @@ permalink: /notebooks/
 <pre>conda create -n cmis python=3.7<br />conda activate cmis<br />conda config --add channels conda-forge<br />conda install meshplot<br />conda install ipympl<br />conda install igl<br />conda install wildmeshing<br />conda install jupyter</pre>
 <p>When you want to run the Jupyter notebook you have to do</p>
 <pre>conda activate cmis<br />jupyter notebook</pre>
+<h2>Anaconda issues</h2>
+<h3>New MAC chips</h3>
+Since Python 3.8 had been released for about a year when Apple Silicon hit the market, Python 3.7 builds for osx-arm64 were never part of the regular build matrix for Conda Forge. This means we need to find a work around for this. Replace the first line in the code box above with the following:
+<pre>
+## create empty environment <br />
+conda create -n cmis <br />
+
+## activate <br />
+conda activate cmis <br />
+
+## use x86_64 architecture channel(s) <br />
+conda config --env --set subdir osx-64 <br />
+
+## install python, numpy, etc. (add more packages here...) <br />
+conda install python=3.7 <br />
+</pre>
+<h3>Jupyter notebook not opening</h3>
+In some cases the Jupyter client gives issue. Once in your cmis environment, it helps to upgrade the jupyter_client like below:
+<pre>
+pip install --upgrade jupyter_client 
+</pre>
+
 <h2>&nbsp;Python Tips in General</h2>
 <p>&nbsp;The official site offers documentation, tutorials, references to books, etc.</p>
 <ul>
