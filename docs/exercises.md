@@ -10,7 +10,10 @@ In order to support the learning process we provide weekly Jupyter notebooks. Th
 <ul>
     <li><a href="{{ '/assets/notebooks/week1.ipynb' | relative_url }}">Exercise for week  1</a></li>
     <li><a href="{{ '/assets/notebooks/week2.ipynb' | relative_url }}">Exercise  for week 2</a></li>
-    <li>Exercise  for week 3</li>
+    <li><a href="{{ '/assets/notebooks/week3.ipynb' | relative_url }}">Exercise  for week 3</a></li>
+    <li><a href="{{ '/assets/notebooks/armadillo.obj' | relative_url }}">Armadillo file</a></li>
+    <li><a href="{{ '/assets/notebooks/left_brain.stl' | relative_url }}">Left brain file</a></li>
+    <li><a href="{{ '/assets/notebooks/right_brain.stl' | relative_url }}">Right brain file</a></li>
     <li>Exercise  for week 4</li>
     <li>Exercise  for week 5</li>
     <li>Exercise  for week 6</li>
