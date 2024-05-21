@@ -79,6 +79,7 @@ header_pages:
   - week_06.md
   - week_07.md
   - exercises.md
+  - slides.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
