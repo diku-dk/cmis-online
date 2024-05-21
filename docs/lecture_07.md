@@ -8,7 +8,7 @@ permalink: /lec07/
 
 <p>This lecture covers theory in 
 <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a>
-from page 60 to page 66. Furthermore the slides 15, 17 and 18 have relevant supplementary information.
+from page 60 to page 66, and contains more detailed explanations of the model of linear elasticity. Furthermore the slides 15, 17 and 18 have relevant supplementary information.
 <h1>Reading Material</h1>
 <p>We recommend that you spend time making sure you are familiar with tensors and basic definitions from continuum mechanics. Here is a list of resources to help you get up to speed quickly.</p>
 <ul>
@@ -44,6 +44,7 @@ from page 60 to page 66. Furthermore the slides 15, 17 and 18 have relevant supp
 <ul>
     <li>This video goes into how material behaviour is defined through stress-strain relationships and Lam&eacute; coefficients are introduced.</li>
     <li>The aim is to understand how material modelling works and learn how to convert from tensor to vector notation.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 63-64)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/XgtWrIkXVL8" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Young Modulus and Poisson Ratio</h1>
@@ -51,6 +52,7 @@ from page 60 to page 66. Furthermore the slides 15, 17 and 18 have relevant supp
     <li>This video demonstrates how the elasticity matrix from the isotropic linear elastic material can be computed in terms of Young modulus and Poisson ratio. The video builds a little intuition about the Yong modulus and Poisson ratio parameters mean.</li>
     <li>The aim is to learn to work with both Lam&egrave; coefficients and Young modulus and Poisson ratio.</li>
     <li>Test yourself: Argue for how the elasticity matrix depends on the Young modulus.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (page 66)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/VKYmaKv8x8w" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Vector Notation of Strain Definition</h1>
@@ -66,6 +68,7 @@ from page 60 to page 66. Furthermore the slides 15, 17 and 18 have relevant supp
     <li>The aim is to learn that the techniques we have seen for scalar 1D and 2D problems extend to vector problems in 2D and 3D domains, to derive a closed-form solution for the element matrix.</li>
     <li>Test yourself: What is the dimensionality of the B-matrix in 2D for a linear triangle element? What is the dimensionality in 3D for a linear tetrahedral element?</li>
     <li>Test yourself: Prove that you solve K u' = f for a given Young modulus value E then you can find the u-solution for any Young modulus value given by c E where c is some positive number as u = u'/c.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (page 65)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/iPUoSfg-2ZM" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Adding Traction using the FEM method</h1>

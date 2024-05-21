@@ -52,6 +52,8 @@ permalink: /lec05/
     <li>The aim of this video is to learn a simple algorithm for meshing and study some of the difficulties in creating a nice "output" mesh.</li>
     <li>This type of algorithm is closely related to contouring algorithms that are used in computer graphics for visualizing implicit surfaces, often referred to as isosurfaces. The same type of algorithm is often used to extract surface meshes from image segmentations. Like getting bone surfaces from a CT image. The "classical" contouring algorithm is considered to be the "marching cubes" method, see the link below. Today many derived methods exist. The contouring idea has also been extended to volume mesh generation and is sometimes called "stuffing", see the paper link below. The marching triangle method we introduced here in 2D can be trivially extended to 3D. This we leave as an optional home programming exercise for those students that like to explore meshing more.</li>
     <li>Supplementary reading: <a href="https://dl.acm.org/doi/10.1145/37401.37422">Marching cubes: A high-resolution 3D surface construction algorithm</a> and <a href="https://dl.acm.org/doi/10.1145/1276377.1276448">Isosurface stuffing: fast tetrahedral meshes with good dihedral angles</a>.</li>
+    <li>Covers
+<a href="{{'assets/slides/Computational_Methods_06___Computational_Meshing.pdf' | relative_url}}">slides 6</a> (pages 13-17)</li>
 </ul>
 <p>
 <iframe src="//www.youtube.com/embed/WA6pdAxThMY" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
@@ -66,6 +68,8 @@ permalink: /lec05/
             <li>How would you create an embarrassingly parallel version of this algorithm that could run on a GPU?&nbsp; (Hint: think about using a thread for every cell in the grid, how do you avoid race conditions when generating vertices and triangles?)</li>
         </ul>
     </li>
+    <li>Covers
+<a href="{{'assets/slides/Computational_Methods_06___Computational_Meshing.pdf' | relative_url}}">slides 6</a> (pages 23-25)</li>
 </ul>
 <p>
 <iframe src="//www.youtube.com/embed/SXWtFj-kBfA" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
@@ -75,6 +79,8 @@ permalink: /lec05/
     <li>This video introduces quality measures and histograms as tools to verify if a computational mesh can be expected to behave nicely for simulation purposes.</li>
     <li>The aim is not to get deep into the theory of quality measures but to achieve a good practice of always using multiple measures to inspect a mesh before using that mesh.</li>
     <li>Read about different quality measures in this paper <a href="https://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf">What Is a Good Linear Finite Element? Interpolation, Conditioning, Anisotropy, and Quality Measures</a>. The paper is dense so focus on fair measures in section 6. Particular Table 7 is a quite useful reference.</li>
+    <li>Covers
+<a href="{{'assets/slides/Computational_Methods_06___Computational_Meshing.pdf' | relative_url}}">slides 6</a> (pages 29-30)</li>
 </ul>
 <p>
 <iframe src="//www.youtube.com/embed/FJVptzqUPEI" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>

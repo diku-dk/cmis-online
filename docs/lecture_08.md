@@ -39,7 +39,7 @@ permalink: /lec08/
 <ul>
     <li>Introducing the Gauss Divergence Theorem</li>
     <li>Showcasing its utility for FVM</li>
-     <li>Covers: <a href="{{'assets/slides/Computational_Methods_13___Finite_Volume_Methods.pdf' | relative_url}}">slides 13</a> (pages 11-15</li>
+     <li>Covers: <a href="{{'assets/slides/Computational_Methods_13___Finite_Volume_Methods.pdf' | relative_url}}">slides 13</a> (pages 11-15)</li>
 </ul>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NKb-iqr8a-o?si=4-xCFTZ933-6SIxB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -103,3 +103,4 @@ permalink: /lec08/
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HjqGtu1x1AE?si=TRJbf8h4fhGmnwbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
+

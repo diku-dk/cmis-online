@@ -19,24 +19,28 @@ from page 1 to page 59.</p>
 <ul>
     <li>This video presents an overview of the five logical steps in the mathematical recipe that makes up the finite element method.</li>
     <li>This video aims to give an overview of the steps we will learn about in later videos.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 2-3)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/SbIudfXwlTE" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>A simple problem for learning finite element method by example</h1>
 <ul>
     <li>This video presents a simple PDE problem that we will use later to learn the five steps of the finite element method recipe.</li>
     <li>The aim is to understand terms such as governing equations, and strong forms, and build intuition about what type of unknown functions are solutions to our problem.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (page 4)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/w0_K1k3JvrI" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Step 1 how to rewrite into a volume integral</h1>
 <ul>
     <li>This video explains how a trial function is used to rewrite the original partial differential equation into a volume integral form which is mathematically equivalent, meaning it has the same solution as the original problem.</li>
     <li>The aim is to learn how trial functions enable one to convert a problem with multiple equations into a single scalar equation that is equivalent to the original problem. The key to this is to learn how trial functions work as masks on the domain to extract boundary and interior as needed.</li>
+<li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (page 4)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/74gKCaS4xvo" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Step 2 how to apply integration by parts</h1>
 <ul>
     <li>This video explains how to rewrite the original volume integral by using integration by parts.</li>
     <li>This video aims to learn that integration by parts reduced the differentiability requirement for the unknown y function and how the trial functions are affected by this.</li>
+<li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 9-10)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/63K49iTNO9Q" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Step 3 how to create an approximation</h1>
@@ -44,60 +48,70 @@ from page 1 to page 59.</p>
     <li>This video shows how the shape functions are used to create an interpolating approximating function and outline the linear 1D shape function known as the hat function.</li>
     <li>The aim is to understand how approximations are used in the finite element method and to be able to define the hat-function and computational mesh.</li>
     <li>Test yourself: Is it a problem that shape functions are non-smooth at the discrete x-values (the mesh nodes)?</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 11-16)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/6bU3cI5ak_4" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Step 4 choosing the trial function</h1>
 <ul>
     <li>This video shows how to use the Galerkin assumption to define the trial function and how the substitution of this specific trial function results in a final linear system.</li>
     <li>The aim is to learn how to use the Galerkin method to reuse shape functions and derive a discrete system.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 17-19)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/uCTH1WplXzU" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Step 5 Compute a solution</h1>
 <ul>
     <li>This video shows how all pieces come together into a linear system that can be solved using your favourite solver.</li>
     <li>The aim is to show that one needs to add boundary conditions before solving the discrete problem.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 20-21)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/kwP0ogahynk" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Introduction to local shape functions and elements</h1>
 <ul>
     <li>This video introduces the idea of local shape functions and the assembly process.</li>
     <li>Test yourself: Obviously, the dimensionality of the integral with global shape functions does not match the dimensionality of the local shape functions are not the same. Hence, the main equation in this video is mathematical incorrect but intuitively correct. Can you explain how to fix the "math" such that the equation is correct, in other words, what went wrong?</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 27-31)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/maAXGbYbkNU" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Elements from piecewise continuous integrals</h1>
 <ul>
     <li>This video explains how the global setting is connected to the local setting using the property of rewriting the global integral into a sum of piecewise continuous integrals.</li>
     <li>The aim is to learn that the non-smoothness of global shape functions at discrete nodes is not an issue as this vanishes when using the local shape functions.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 30-31)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/on62gZQOJrY" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Redoing simple problems with local shape functions</h1>
 <ul>
     <li>This video shows how the local linear hat functions are substituted to derive a closed-form solution for the local K matrix of the simple test problem.</li>
     <li>The aim is to show how the local elements are related to the local K matrix's dimensionality.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (page 30)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/glSpoW4dBqg" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>A 2D problem and its computational mesh and shape functions</h1>
 <ul>
     <li>This video presents a 2D problem that we will use the FEM method on later. It defines important concepts and notations that will be reused in later videos. In particular, the ideas of a triangular computational mesh are presented and local shape functions for linear triangle elements are derived.</li>
     <li>The aim is to learn how to extend the ideas of the 1D hat shape functions into the equivalent 2D concept for a triangle mesh.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 37-45)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/Qfs87Uquok8" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Computing the value and derivative of local shape functions in 2D</h1>
 <ul>
     <li>This video goes into the details of how to compute the value of the local shape functions for a linear triangular element as well as their derivatives.</li>
     <li>The aim is to learn the basic formulas that are needed later when we apply the finite element method to our 2D problem.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 44-46)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/TpTsCW2fNiM" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Getting derivatives of shape functions from geometry</h1>
 <ul>
     <li>This video outlines a different approach for deriving equations for the shape function derivatives.</li>
     <li>The aim is to obtain a geometric intuition about gradients of shape functions.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 47-51)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/dmENyEcN6cE" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Applying the finite element method to a 2D scalar problem</h1>
 <ul>
     <li>This video shows how to explain local shape functions and Galerkin's assumption to quickly derive a closed-form solution for computing local element matrices.</li>
     <li>The video aims to demonstrate that as soon as computational mesh, shape, and trial functions are chosen the finite element method essentially boils down to doing integration by parts before evaluation/deriving local element matrices/vectors.</li>
+    <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (pages 52-56)</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/9sQuai1DTgI" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Finite element assembly process using scattering approach</h1>
