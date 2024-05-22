@@ -9,3 +9,4 @@ The final week will be spent with expanding your knowledge of the Finite Volume 
 * [Lecture 9]({{ '/lec09' | relative_url }})
 * [Programming exercise 7]({{ '/assets/notebooks/week7.ipynb' | relative_url }})
 
+Total time of videos: 1 hour and 38 minutes.

@@ -13,3 +13,4 @@ Taylors Theorem.
 * [Lecture 2]({{ '/lec02' | relative_url }})
 * [Programming exercise 1]({{ '/assets/notebooks/week1.ipynb' | relative_url }})
 
+Total time of videos: 1 hour and 1 minute.

@@ -11,3 +11,4 @@ and we will look at more advanced approaches.
 * [Lecture 4]({{ '/lec04' | relative_url }})
 * [Programming exercise 2]({{ '/assets/notebooks/week2.ipynb' | relative_url }})
 
+Total time of videos: 51 minutes.

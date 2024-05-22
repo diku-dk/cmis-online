@@ -14,3 +14,4 @@ Files for the programming exercise:
 [Left brain file]({{ '/assets/notebooks/left_brain.stl' | relative_url }})
 [Right brain file]({{ '/assets/notebooks/right_brain.stl' | relative_url }})
 
+Total time of videos: 54 minutes.
