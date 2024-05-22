@@ -20,17 +20,20 @@ from page 60 to page 66, and contains more detailed explanations of the model of
 <h1>Terminology and Notation for the Elastic Cantilever Beam Problem</h1>
 <ul>
     <li>This video introduces the basic notation used for describing the domain and boundaries of an elastic beam simulation.</li>
+    <li>Covers: Bonet, J., & Wood, R. (2008), section 3.3.</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/fZPDmHeuw_A" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>The Equations of Motion for the Beam</h1>
 <ul>
     <li>This video introduces the equations of motion (Cauchy equation) for an elastic beam simulation as well as the type of boundary conditions to apply.</li>
+    <li>Covers: Kenny's book section 1.2.</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/MbvA1dzpEw8" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>The Volume Integral for the Beam</h1>
 <ul>
     <li>This video illustrates how the Cauchy equation can be rewritten into a volumetric form, the first step of the finite element method.</li>
     <li>Observe how the change of variables is done to get volume integral into material coordinates.</li>
+    <li>Covers: Kenny's book section 1.2.</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/zn4qh-jj6SE" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Beam Weak-form Reformulation</h1>
@@ -38,6 +41,7 @@ from page 60 to page 66, and contains more detailed explanations of the model of
     <li>This video shows step-by-step how the volume formulation of the Cauchy equation is changed from the strong form into a corresponding weak form. Step 2 of the finite element method.</li>
     <li>Test yourself: Can you find a slip of tongue in the very last part of this video? (Hint look up definitions of Euler strain tensor and Cauchy strain tensor)</li>
     <li>Test yourself: Observe that in the video the P-terms are sometimes called work other times they are termed (instantaneous) Power, can you explain why (Hint: think of "w" as a virtual displacement or virtual velocity, when would you use one or the other?)</li>
+    <li>Covers: Kenny's book section 3.2.</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/f44Aw5OjjiI" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Isotropic Linear Elastic Material and Vector (Voigt) Notation</h1>
@@ -60,6 +64,7 @@ from page 60 to page 66, and contains more detailed explanations of the model of
     <li>This video shows how the Voight notation can be used for the strain tensor definition</li>
     <li>The aim is to learn the basic math used to convert from tensor to vector notation</li>
     <li>Converting the Cauchy strain tensor definition into the Cauchy strain vector notation.</li>
+    <li>Covers: Kenny's book section 3.2.</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/R8wW432mF98" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Applying FEM approximation and Galerkin principle</h1>
@@ -75,6 +80,8 @@ from page 60 to page 66, and contains more detailed explanations of the model of
 <ul>
     <li>This video illustrates how to add traction boundary conditions to an elastic cantilever beam. The video outlines the full process of applying the finite element method to the boundary PDE term all the way through the assembly process.</li>
     <li>The aim is to understand how traction terms are discretized and assembled by defining shape functions for the boundary and using the machinery of the finite element method.</li>
+    <li>Covers: Kenny's book section 3.2.</li>
 </ul>
 <p><iframe src="//www.youtube.com/embed/fYNLj6cQ8ww" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <p>&nbsp;</p>
+
