@@ -13,7 +13,7 @@ from page 60 to page 66, and contains more detailed explanations of the model of
 <p>We recommend that you spend time making sure you are familiar with tensors and basic definitions from continuum mechanics. Here is a list of resources to help you get up to speed quickly.</p>
 <ul>
     <li>Bonet, J., &amp; Wood, R. (2008). MATHEMATICAL PRELIMINARIES. In Nonlinear Continuum Mechanics for Finite Element Analysis (pp. 22-62). Cambridge: Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511755446.003" target="_blank" rel="noopener">https://doi.org/10.1017/CBO9780511755446.003.</a></li>
-    <li>Bonet, J., &amp; Wood, R. (2008). KINEMATICS. In Nonlinear Continuum Mechanics for Finite Element Analysis (pp. 94-133). Cambridge: Cambridge University Press. <a href="https://doi.org/:10.1017/CBO9780511755446.005" target="_blank" rel="noopener">https://doi.org/:10.1017/CBO9780511755446.005</a>.&nbsp;&nbsp;</li>
+    <li>Bonet, J., &amp; Wood, R. (2008). KINEMATICS. In Nonlinear Continuum Mechanics for Finite Element Analysis (pp. 94-133). Cambridge: Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511755446.005" target="_blank" rel="noopener">https://doi.org/10.1017/CBO9780511755446.005</a>.&nbsp;&nbsp;</li>
     <li>Bonet, J., &amp; Wood, R. (2008). STRESS AND EQUILIBRIUM. In&nbsp;<i>Nonlinear Continuum Mechanics for Finite Element Analysis</i>&nbsp;(pp. 134-154). Cambridge: Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511755446.006" target="_blank" rel="noopener">https://doi.org/10.1017/CBO9780511755446.006.</a>&nbsp; &nbsp; &nbsp;</li>
     <li>Read chapter 3 in the book notes by Kenny; it outlines the FEM discretization of a linear elastic problem.</li>
 </ul>
