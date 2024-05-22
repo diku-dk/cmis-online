@@ -48,7 +48,7 @@ permalink: /lec02/
     <li>Covers: <a href="{{'assets/slides/Computational_Methods_11__Finite_Difference_Method.pdf' | relative_url}}">slides 11</a> (pages 21-22)</li>
 </ul>
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R6mf-zuSAhU?si=X-TI1wrA4D6Gupb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Do_p0cmCnLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <h2>Boundary approaches</h2>
 <ul>
