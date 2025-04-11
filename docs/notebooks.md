@@ -3,9 +3,40 @@ layout: page
 title: Jupyter Notebooks
 permalink: /notebooks/
 ---
+<h1>General information</h1>
+
+<p>Jupyter notebooks are used throughout this course. In order to aek the installation of the relatively old meshign libraries we rely on, we have set up different ways of hettign the Jupyter notebooks to run. Please choose below if you are a UCPH student or participationg in the course online. </p>
+    
+
+<h1>UCPH students</h1>
+
+<p>For UCPH students we have prepared a containerized environment where all notebooks run smoothly. In order to access it, UCPH studnets need to sign up for/into the Electronic Research Data Archive at University of Copenhagen (also called ERDA) at erda.dk. Once you are signed in you can see a welcome page:
+
+![image](./images/ERDAwelcome.PNG)
+
+Choose the Jupyter icon which brings you to the Data Analysis Gateway (DAG):
+
+![image](./images/ERDADAG.PNG)
+
+Start your DAG server. This will allow you to choose from a variety of containerized environments, where you choose the 'Computational Models in Simulation':
+
+![image](./images/ERDACMIS.PNG)
+
+Once you have chosen it, you just have to wait. Especially th first time it will take some time to start up:
+
+![image](./images/ERDAwaiting.PNG)
+
+Once it is started you are in a regular jupyter environment. Youb cna make a folder CMIS and upload all the exercises notebooks and files that we make available throughout the course:
+
+![image](./images/ERDACMISon.PNG)
+
+And you are ready to code!
 
 
-<p>Jupyter notebooks are used throughout this course and Anaconda is used to set up a conda environment for the notebooks. Alternatively, you can also use Google's Colaboratory to work with the notebooks.</p>
+<h1>Online students</h1>
+
+<p>Anaconda is used to set up a conda environment for the notebooks. Youc na do this via a local install on your machine or you can also use Google's Colaboratory to work with the notebooks.</p>
+
 <h2>Anaconda</h2>
 <p>In order to install Anaconda, go to <a href="https://www.anaconda.com/distribution/">https://www.anaconda.com/distribution/</a> and download the Python 3.7 version. If you already have it installed, you can just downgrade Python like below.</p>
 <h3>Conda Environment</h3>
