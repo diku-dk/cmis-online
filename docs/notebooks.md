@@ -12,26 +12,23 @@ permalink: /notebooks/
 
 <p>For UCPH students we have prepared a containerized environment where all notebooks run smoothly. In order to access it, UCPH studnets need to sign up for/into the Electronic Research Data Archive at University of Copenhagen (also called ERDA) at erda.dk. Once you are signed in you can see a welcome page:
 
-<img src="./assets/images/ERDAwelcome.png"
-     alt="ERDA welcome"
-     style="float: left; margin-right: 10px;" />
-#![ERDA welcome](./assets/images/ERDAwelcome.PNG)
+![ERDA welcome](/cmis-online/docs/assets/images/ERDAwelcome.PNG)
 
 Choose the Jupyter icon which brings you to the Data Analysis Gateway (DAG):
 
-![ERDA DAG](./assets/images/ERDADAG.PNG)
+![ERDA DAG](/cmis-online/docs/assets/images/ERDADAG.PNG)
 
 Start your DAG server. This will allow you to choose from a variety of containerized environments, where you choose the 'Computational Models in Simulation':
 
-![ERDA CMIS](./assets/images/ERDACMIS.PNG)
+![ERDA CMIS](/cmis-online/docs/assets/images/ERDACMIS.PNG)
 
 Once you have chosen it, you just have to wait. Especially th first time it will take some time to start up:
 
-![ERDA waiting](./assets/images/ERDAwaiting.PNG)
+![ERDA waiting](/cmis-online/docs/assets/images/ERDAwaiting.PNG)
 
 Once it is started you are in a regular jupyter environment. Youb cna make a folder CMIS and upload all the exercises notebooks and files that we make available throughout the course:
 
-![ERDA CMIS on](./assets/images/ERDACMISon.PNG)
+![ERDA CMIS on](/cmis-online/docs/assets/images/ERDACMISon.PNG)
 
 And you are ready to code!
 
