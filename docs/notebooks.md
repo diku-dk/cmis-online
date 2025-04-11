@@ -15,13 +15,9 @@ permalink: /notebooks/
 Once you have an account, follow this step by step procedure:
 
 * When you are signed in you can see a welcome page.
-
 * Choose the Jupyter icon which brings you to the Data Analysis Gateway (DAG).
-
 * Start your DAG server. This will allow you to choose from a variety of containerized environments, where you choose the 'Computational Models in Simulation'.
-
 * Once you have chosen it, you just have to wait. Especially th first time it will take some time to start up.
-
 * Once it is started you are in a regular jupyter environment. You can make a folder CMIS and upload all the exercise notebooks and files that we make available throughout the course.
 
 And you are ready to code!
