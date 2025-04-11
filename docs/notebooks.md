@@ -12,9 +12,7 @@ permalink: /notebooks/
 
 <p>For UCPH students we have prepared a containerized environment where all notebooks run smoothly. In order to access it, UCPH studnets need to sign up for/into the Electronic Research Data Archive at University of Copenhagen (also called ERDA) at erda.dk. Once you are signed in you can see a welcome page:
 
-<img src="./assets/images/ERDAwelcome.PNG"
-     alt="ERDA welcome"
-     style="float: left; margin-right: 10px;" />
+#![ERDA welcome](./assets/images/ERDAwelcome.PNG)
 
 Choose the Jupyter icon which brings you to the Data Analysis Gateway (DAG):
 
