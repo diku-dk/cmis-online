@@ -5,13 +5,16 @@ permalink: /notebooks/
 ---
 <h1>General information</h1>
 
-<p>Jupyter notebooks are used throughout this course. In order to aek the installation of the relatively old meshign libraries we rely on, we have set up different ways of hettign the Jupyter notebooks to run. Please choose below if you are a UCPH student or participationg in the course online. </p>
+<p>Jupyter notebooks are used throughout this course. In order to make the installation of the relatively old meshign libraries we rely on as easy as possible, we have set up different ways of getting the Jupyter notebooks to run. Please choose below if you are a UCPH student or participating in the course online. </p>
     
 
 <h1>UCPH students</h1>
 
 <p>For UCPH students we have prepared a containerized environment where all notebooks run smoothly. In order to access it, UCPH studnets need to sign up for/into the Electronic Research Data Archive at University of Copenhagen (also called ERDA) at erda.dk. Once you are signed in you can see a welcome page:
 
+<img src="./assets/images/ERDAwelcome.png"
+     alt="ERDA welcome"
+     style="float: left; margin-right: 10px;" />
 #![ERDA welcome](./assets/images/ERDAwelcome.PNG)
 
 Choose the Jupyter icon which brings you to the Data Analysis Gateway (DAG):
