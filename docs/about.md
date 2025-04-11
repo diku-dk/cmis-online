@@ -26,22 +26,22 @@ If you would like to use our course material for you own teaching and need teach
 <h3>Online students</h3>
 Since this course is fully open, you are more than welcome to follow along. Unfortunately quizzes cannot be taken at this point, but they mostly check background knowledge. Exercises can be followed along using the provided Jupyter notebooks, but they will not be graded.
 
-<h3>Physical students</h3>
-Registered students at the University of Copenhagen can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hand-ins through the University of Copenhagen system, 
-<a href="https://absalon.ku.dk/courses/72771">Absalon</a>. See the [exercise page]({{ '/exercises' | relative_url }}) for more information.
+<h3>UCPH students</h3>
+Registered students at the University of Copenhagen (UCPH) can physically participate and receive ECTS credits for this course. Therefore, they will need to fill out quizzes and submit their exercise hand-ins through the UCPH system, 
+<a href="https://absalon.ku.dk/courses/80720">Absalon</a>. See the [exercise page]({{ '/exercises' | relative_url }}) for more information.
 
 <h4>Rooms:</h4>
 <ul>
-    <li>Monday afternoon: &oslash;v - NBB 2.3.I.164, Jagtvej 155</li>
-    <li>Wednesday morning: &oslash;v - NBB 2.3.I.164, Jagtvej 155</li>
-    <li>Wednesday afternoon: aud - NBB 2.0.G.064/070, Jagtvej 155</li>
+    <li>Monday afternoon: &oslash;v - 4-0-24, Ole Maal&oslash;es Vej 5, Biocenter</li>
+    <li>Wednesday morning: &oslash;v - 4-0-24, Ole Maal&oslash;es Vej 5, Biocenter</li>
+    <li>Wednesday afternoon: &oslash;v - 4-0-24, Ole Maal&oslash;es Vej 5, Biocenter</li>
 </ul>
 
 <h4>Teachers and TA:</h4>
 <ul>
     <li>Melanie Ganz-Benjaminsen</li>
     <li>Francois Lauze</li>
-    <li>Jorge Expósito Patiño (TA)</li>
+    <li>Knud Henriksen (TA)</li>
 </ul>
 
 <h4>Course Overview:</h4>
@@ -190,7 +190,7 @@ work you did during Wednesday's classes.</li>
             <td>15-16</td>
             <td style="background-color: #d38484;">Study group work (unsupervised)</td>
             <td></td>
-            <td style="background-color: #aa2211;">Work on Hand-in (TA supervised)</td>
+            <td style="background-color: #aa2211;">Work on Hand-in </td>
             <td></td>
             <td></td>
         </tr>
