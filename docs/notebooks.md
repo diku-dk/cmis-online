@@ -10,25 +10,19 @@ permalink: /notebooks/
 
 <h1>UCPH students</h1>
 
-<p>For UCPH students we have prepared a containerized environment where all notebooks run smoothly. In order to access it, UCPH studnets need to sign up for/into the Electronic Research Data Archive at University of Copenhagen (also called ERDA) at erda.dk. Once you are signed in you can see a welcome page:
+<p>For UCPH students we have prepared a containerized environment where all notebooks run smoothly. In order to access it, UCPH students need to sign up for/into the Electronic Research Data Archive at University of Copenhagen (also called ERDA) at erda.dk. 
 
-![ERDA welcome](../assets/images/ERDAwelcome.PNG)
+Once you have an account, follow this step by step procedure:
 
-Choose the Jupyter icon which brings you to the Data Analysis Gateway (DAG):
+* When you are signed in you can see a welcome page.
 
-![ERDA DAG](/cmis-online/docs/assets/images/ERDADAG.PNG)
+* Choose the Jupyter icon which brings you to the Data Analysis Gateway (DAG).
 
-Start your DAG server. This will allow you to choose from a variety of containerized environments, where you choose the 'Computational Models in Simulation':
+* Start your DAG server. This will allow you to choose from a variety of containerized environments, where you choose the 'Computational Models in Simulation'.
 
-![ERDA CMIS](/cmis-online/docs/assets/images/ERDACMIS.PNG)
+* Once you have chosen it, you just have to wait. Especially th first time it will take some time to start up.
 
-Once you have chosen it, you just have to wait. Especially th first time it will take some time to start up:
-
-![ERDA waiting](/cmis-online/docs/assets/images/ERDAwaiting.PNG)
-
-Once it is started you are in a regular jupyter environment. Youb cna make a folder CMIS and upload all the exercises notebooks and files that we make available throughout the course:
-
-![ERDA CMIS on](/cmis-online/docs/assets/images/ERDACMISon.PNG)
+* Once it is started you are in a regular jupyter environment. You can make a folder CMIS and upload all the exercise notebooks and files that we make available throughout the course.
 
 And you are ready to code!
 
