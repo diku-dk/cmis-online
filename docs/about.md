@@ -41,7 +41,8 @@ Registered students at the University of Copenhagen (UCPH) can physically partic
 <ul>
     <li>Melanie Ganz-Benjaminsen</li>
     <li>Francois Lauze</li>
-    <li>Julius Bier Kirkegaard</li>
+    <li>Julius Bier Kirkegaard </li>
+    <li>Eva Kroon Enevoldsen (TA)</li>
 </ul>
 
 <h4>Course Overview:</h4>

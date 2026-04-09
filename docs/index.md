@@ -2,7 +2,7 @@
 layout: home
 ---
 
-This is the course homepage for the MSc course <a href="[url]https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
+This is the course homepage for the MSc course <a href="https://kurser.ku.dk/course/ndak12006u">Computational Methods in Simulation</a> given at the Department of Computer Science (DIKU) at the University of Copenhagen (UCPH). 
 
 Check out the [course Information]({{ '/about' | relative_url }}).
 
