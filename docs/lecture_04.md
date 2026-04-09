@@ -11,7 +11,7 @@ permalink: /lec04/
 .</p>
 <h1>Reading Material</h1>
 <ul>
-    <li>Level Set Methods and Dynamic Implicit Surfaces by Stanley Osher and Ronald Fedkiw, Chapters 1, 2, 3, 4 and 7, <a href="https://link.springer.com/book/10.1007/b98879" target="_blank" rel="noopener">https://link.springer.com/book/10.1007/b98879</a> (Physical studnets can find access to a copy on Absalon.)</li>
+    <li>Level Set Methods and Dynamic Implicit Surfaces by Stanley Osher and Ronald Fedkiw, Chapters 1, 2, 3, 4 and 7, <a href="https://link.springer.com/book/10.1007/b98879" target="_blank" rel="noopener">https://link.springer.com/book/10.1007/b98879</a> (Physical students can find access to a copy on Absalon.)</li>
 </ul>
 <h1>Introduction to Mean Curvature Flow</h1>
 <p>This video will</p>

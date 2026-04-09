@@ -20,7 +20,7 @@ Check out:
 * [Exercises]({{ '/exercises' | relative_url }}) for each week will support you in getting hands on experience with the material. 
 
 <h2>For teachers:</h2>
-If you would like to use our course material for you own teaching and need teachers solutions then please feel free to reach out to <a href="https://di.ku.dk/english/staff/?pure=en/persons/110537">Professor Kenny Erleben</a>. 
+If you would like to use our course material for your own teaching and need teachers solutions then please feel free to reach out to <a href="https://di.ku.dk/english/staff/?pure=en/persons/110537">Professor Kenny Erleben</a>. 
 
 <h2>For students:</h2>
 <h3>Online students</h3>
@@ -32,16 +32,16 @@ Registered students at the University of Copenhagen (UCPH) can physically partic
 
 <h4>Rooms:</h4>
 <ul>
-    <li>Monday afternoon: &oslash;v - 4-0-24, Ole Maal&oslash;es Vej 5, Biocenter</li>
-    <li>Wednesday morning: &oslash;v - 4-0-24, Ole Maal&oslash;es Vej 5, Biocenter</li>
-    <li>Wednesday afternoon: &oslash;v - 4-0-24, Ole Maal&oslash;es Vej 5, Biocenter</li>
+    <li>Monday afternoon: &oslash;v -  NBB 2.1.I.156, Jagtvej 155</li>
+    <li>Wednesday morning: &oslash;v -  NBB 2.1.I.156, Jagtvej 155</li>
+    <li>Wednesday afternoon: &oslash;v -  NBB 2.1.I.156, Jagtvej 155</li>
 </ul>
 
 <h4>Teachers and TA:</h4>
 <ul>
     <li>Melanie Ganz-Benjaminsen</li>
     <li>Francois Lauze</li>
-    <li>Knud Henriksen (TA)</li>
+    <li>Julius Bier Kirkegaard</li>
 </ul>
 
 <h4>Course Overview:</h4>
@@ -100,10 +100,10 @@ The physical version of this course is designed as a flipped classroom course - 
     <li>All questions regarding slides, programming, hand-ins, the syllabus, and other direct course-related content must be asked during class hours. E-mails will in general be ignored if questions belong to the class hours.</li>
     <li>Students will be divided into random workgroups every week.</li>
     <li>Weekly exercises in Jupyter notebooks will be distributed on the
-<a herf="{{ '/exercises' | relative_url }}">[exercises page]</a> to help
+<a href="{{ '/exercises' | relative_url }}">[exercises page]</a> to help
 students with programming exercises and support students in making their
 bi-weekly hand-ins. The hand ins need to be submitted through Absalon. See
-the <a herf="{{ '/exercises' | relative_url }}">[exercises page]</a> for details.</li>
+the <a href="{{ '/exercises' | relative_url }}">[exercises page]</a> for details.</li>
     <li>All hand-in deadlines are strict. Students are allowed to hand in early; the TA will provide
 written feedback on hand-ins. We will try and have feedback available no later than one week
 after the respective hand-in deadline.</li>

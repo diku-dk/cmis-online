@@ -5,7 +5,7 @@ permalink: /notebooks/
 ---
 <h1>General information</h1>
 
-<p>Jupyter notebooks are used throughout this course. In order to make the installation of the relatively old meshign libraries we rely on as easy as possible, we have set up different ways of getting the Jupyter notebooks to run. Please choose below if you are a UCPH student or participating in the course online. </p>
+<p>Jupyter notebooks are used throughout this course. In order to make the installation of the relatively old meshing libraries we rely on as easy as possible, we have set up different ways of getting the Jupyter notebooks to run. Please choose below if you are a UCPH student or participating in the course online. </p>
     
 
 <h1>UCPH students</h1>
@@ -17,7 +17,7 @@ Once you have an account, follow this step by step procedure:
 * When you are signed in you can see a welcome page.
 * Choose the Jupyter icon which brings you to the Data Analysis Gateway (DAG).
 * Start your DAG server. This will allow you to choose from a variety of containerized environments, where you choose the 'Computational Models in Simulation'.
-* Once you have chosen it, you just have to wait. Especially th first time it will take some time to start up.
+* Once you have chosen it, you just have to wait. Especially the first time it will take some time to start up.
 * Once it is started you are in a regular jupyter environment. You can make a folder CMIS and upload all the exercise notebooks and files that we make available throughout the course.
 
 And you are ready to code!
@@ -25,7 +25,7 @@ And you are ready to code!
 
 <h1>Online students</h1>
 
-<p>Anaconda is used to set up a conda environment for the notebooks. Youc na do this via a local install on your machine or you can also use Google's Colaboratory to work with the notebooks.</p>
+<p>Anaconda is used to set up a conda environment for the notebooks. You can do this via a local install on your machine or you can also use Google's Colaboratory to work with the notebooks.</p>
 
 <h2>Anaconda</h2>
 <p>In order to install Anaconda, go to <a href="https://www.anaconda.com/distribution/">https://www.anaconda.com/distribution/</a> and download the Python 3.7 version. If you already have it installed, you can just downgrade Python like below.</p>
@@ -40,7 +40,7 @@ Since Python 3.8 had been released for about a year when Apple Silicon hit the m
 <pre>
 ## create empty environment <br /> conda create -n cmis <br /> ## activate <br /> conda activate cmis <br /> ## use x86_64 architecture channel(s) <br /> conda config --env --set subdir osx-64 <br /> ## install python, numpy, etc. (add more packages here...) <br /> conda install python=3.7 <br /> </pre>
 <h3>Jupyter notebook not opening</h3>
-In some cases the Jupyter client gives issue. Go to your Anaconda Prompt/Terminal and enter the cmis environemnt. Once in your cmis environment, it helps to upgrade the jupyter_client like below:
+In some cases the Jupyter client gives issue. Go to your Anaconda Prompt/Terminal and enter the cmis environment. Once in your cmis environment, it helps to upgrade the jupyter_client like below:
 <pre>
 pip install --upgrade jupyter_client 
 </pre>

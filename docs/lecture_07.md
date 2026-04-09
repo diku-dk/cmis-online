@@ -53,7 +53,7 @@ from page 60 to page 66, and contains more detailed explanations of the model of
 <p><iframe src="//www.youtube.com/embed/XgtWrIkXVL8" width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <h1>Young Modulus and Poisson Ratio</h1>
 <ul>
-    <li>This video demonstrates how the elasticity matrix from the isotropic linear elastic material can be computed in terms of Young modulus and Poisson ratio. The video builds a little intuition about the Yong modulus and Poisson ratio parameters mean.</li>
+    <li>This video demonstrates how the elasticity matrix from the isotropic linear elastic material can be computed in terms of Young modulus and Poisson ratio. The video builds a little intuition about the Young modulus and Poisson ratio parameters mean.</li>
     <li>The aim is to learn to work with both Lam&egrave; coefficients and Young modulus and Poisson ratio.</li>
     <li>Test yourself: Argue for how the elasticity matrix depends on the Young modulus.</li>
     <li>Covers: <a href="{{'assets/slides/Computational_Methods_19___Finite_Element_Method.pdf' | relative_url}}">slides 19</a> (page 66)</li>
